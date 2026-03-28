@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+# Special private folders
+/law/依頼者
+/law/弁護
