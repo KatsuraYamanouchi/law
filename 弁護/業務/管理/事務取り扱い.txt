@@ -1,0 +1,2726 @@
+text-header: 1.00
+
+.事務マニュアル
+current version 2026/03/16(月) 22:47:55
+previous 2026/01/19 19:30:23
+
+We created this manual to ensure the contiuity of business and relationship with our customers. This manual shows the management standard for temporarily or permanently close the business.
+
+デジタルアドレス	N73-K20V
+〒５３０－００４７
+大阪市北区西天満４丁目５番５号　マーキス梅田３０９号室
+　梅新東法律事務所
+　TEL ０６－６３６０－６５６２　FAX ０６－６３６０－６５６３
+　弁護士　山之内　桂（大阪弁護士会：登録番号２６２８２）
+　適格請求書発行事業者登録番号　T 9810858712059
+ 　Eligible invoice issuing business registration number
+
+個人認証住所表記	大阪市北区西天満４丁目５番５－３０９号
+
+裁判所電子納付番号  ００２６３６３  パス    Ｈ５Ｑ４ＢＺＫ６
+mints	26275288979814
+
+DL	308903351322
+
+
+郵送表記
+〒５３０－００４７
+大阪市北区西天満４丁目５番５号
+　マーキス梅田３０９号室
+　梅新東法律事務所
+　弁護士　山之内　桂
+
+OLD: 大阪市北区西天満４丁目１０番１９号　神谷ビル５０２
+
+DIPS	https://www.ossportal.dips.mlit.go.jp/portal/login/exec?lang=ja	EAB701871	N8n!6vb-2E2!Q77 <×
+VWB117201	B5％　＜○
+JU32267724D1	ShenzhenVantopTechnology＆Innovation	SP500	山之内　桂	山之内　桂	2025/06/19
+
+insure
+https://t.mail.metlife.co.jp/r/?id=h5500e8b,2961a4c,10eae83	メットライフ
+
+..bank accounts>
+報酬・会務１  三菱ＵＦＪ銀行  梅田新道支店    普通    ４５７６２６２  弁護士山之内桂  ベンゴシヤマノウチカツラ
+報酬・会務２　三井住友銀行    南森町支店  普通    ２３１４４４３  弁護士山之内桂  ベンゴシヤマノウチカツラ
+預り金  三菱ＵＦＪ銀行  梅田新道支店    普通    ５２４４８６０  預り金口弁護士山之内桂  アズカリキングチベンゴシヤマノウチカツラ
+個人１  三菱ＵＦＪ銀行  高田馬場駅前支店    普通    ３５４６３６９  山之内桂    ヤマノウチカツラ	9533393622
+個人２  住信ＳＢＩ銀行  レモン支店  普通    １０２６４８２  L:VkFq5BQ-e8QT4@$  T:
+個人３  ゆうちょ銀行    七三八店    普通    １２５６９７    1730-9333-89516　記号番号：総合：17350-1256971
+個人４  ＰａｙＰａｙ銀行    本店営業部  普通    ６０９１１７６  3586 2200 2426 8757 Month/Year  09/27   セキュリティコード  384
+個人５  イオン銀行  サファイア支店  普通    １２５１３１７  26  B   J   カード  ふくしま    ちゅら  さだ
+rxmo-kour-lvbt-etgp-qqdt
+gmo	Js4Wr9Gt2Yp7
+.LINKS
+..Files>
+依頼者情報記録＞
+	shell Y:\依頼者情報.xls
+	shell "X:\law\依頼者\00 袋事件"
+見積もり作成＞
+	shell "Y:\0書式\0100 総論\0103 受任手続\諸費用計算システム.xls"
+	shell "Y:\0書式\3000 交通事故\Calcu\tracalcu41.xlsm"　＜自賠責の計算　ｗｅｂ化　ｇｏｏｇｌｅ移植　ｐｙｔｈｏｎ化
+    9C9E1BAFFF80A9A9C19EA5192870B0F46029C2933D40038B6340D6748A718C6B
+    Get-FileHash -Algorithm SHA256 "C:\Users\maje2\Downloads\tracalcu41.xlsm"
+	shell "X:\law\家事法\親族\facecalcu.xlsm" 統計データ自動処理、データ保存
+	shell "Y:\0書式\0900 執行総論\利息計算.xlsx"
+受任書式＞
+	shell "Y:\0書式\0100 総論\0103 受任手続"
+その他Util＞
+	shell X:\general.xlsx   汎用表
+	shell Y:\財産管理データ.xls
+医療研受任＞
+	X:\law\弁護\医療研\受任前連絡事項セット.txt
+
+..URLs>
+...general
+https://oba-members.jp/login    y@n mPgu7CSvbvSVdeY 会員用　大阪弁護士会
+https://soudan.osakaben.or.jp/himawari/10/pdf/kouken_01_2_7_omit.pdf　後見総合パンフ
+https://osakabenkenshu.etudes.jp/jp/user/login	ID：026282　js　大阪弁護士会ｅラーニングサイト
+https://uhl.jp/ライブラリー/交通事故賠償額計算の表計算シート/
+
+...regal aide
+"Y:\0書式\0100 総論\0150 法テラス\法テラス適用マニュアル.txt"
+	０５０－３３８３－５４２７　F０６－６３６７－１１５８
+https://www.houterasu.or.jp/site/bengoshitou/ 弁護士、司法書士
+https://www.houterasu.or.jp/site/bengoshitou-syoshiki/#fujo-mousikomishotou　民事書式
+https://www.houterasu.or.jp/site/bengoshitou-syoshiki/#kokusen-houkokushotou　刑事書式
+
+...home
+https://uhl.jp/wp-login.php   b5xoblov
+https://yamanouchi-katsura.uhl.jp/wp-login.php
+https://tool.uhl.jp
+https://onedrive.live.com/?id=root&cid=C539387E531B5C6C
+https://www.bengo4.com/ gmaj2zzr    b5no
+
+mailto://
+katsura-a@uhllf.onmicrosoft.com
+https://uhl.jp/robots.txt
+
+...mailer
+https://webyubin.jpi.post.japanpost.jp/webyubin/snt/DYFR900.do  Ｗｅｂゆうびん
+https://trackings.post.japanpost.jp/services/srv/search/    ゆうびん追跡
+https://sd-webmail10.rentalserver.jp/　ｗｅｂメール　ｕｈｌ．ｊｐ
+
+...medical
+https://licenseif.mhlw.go.jp/search_isei/jsp/top.jsp    医籍
+https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize　医療情報ネット（Navi by mhlw）
+https://www.pmda.go.jp/PmdaSearch/iyakuSearch/　ＰＭＤＡ　医薬品、医療機器情報
+https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2310/initialize?pref=27 大阪府
+https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/teikyouseido/index.html 厚労省リンク
+https://www.nenkin.go.jp/service/jukyu/todokesho/shougai/shindansho/20140421-23.files/00000130479jZou5gb2k.pdf　障害年金
+http://www.report.jcqhc.or.jp/  病院機能評価認定病院
+https://www.mmic-japan.net/ 医療事故情報センター
+https://www.coml.gr.jp/ コムル
+https://www.youtube.com/@IcahnSchoolofMedicine
+
+...case
+https://d1l-dh.d1-law.com/auth/smlogin196.jsp   0000    判例条文検索システム
+
+...civil
+https://www.courts.go.jp/tokyo-h/saiban/tetuzuki/syosiki/index.html 裁判所民事書式
+https://www.courts.go.jp/osaka/saiban/minji15/index.html    交通部
+https://www.courts.go.jp/osaka/saiban/sennmonnbu/index.html　大阪地裁専門部　債権進行　直０６－６３５０－６９６２
+https://www.courts.go.jp/osaka/saiban/tetuzuki_minji14/index.html   大阪地裁１４部
+（1）大阪地裁本庁（民事執行センター5階）　〒532-8503大阪市淀川区三国本町1-13-27　債権受付係　06-6350-6963
+（2）大阪地裁堺支部　〒590-8511堺市堺区南瓦町2-28　執行係(債権)　072-223-8428
+（3）大阪地裁岸和田支部　〒596-0042大阪府岸和田市加守町4-27-2　債権係　072-441-6913
+https://www.courts.go.jp/osaka/about_tiho/syozai/l4/Vcms4_00000372.html　ダイヤルイン堺
+https://law-platform.jp/　名古屋大コーパス
+
+東京地裁交通部	https://www.courts.go.jp/tokyo/saiban/vcmsFolder_1545/vcms_1545.html
+
+..climinal
+１０刑	０６－６３６３－１２９１
+
+..lostbagage
+http://www.otoshimono.police.pref.osaka.jp/index.html
+
+...credit
+https://www.jicc.co.jp/
+〒１０５－００１１
+東京都港区芝公園２－４－１
+芝パークビルＢ館４階
+株式会社日本信用情報機構　開示窓口宛
+０２６４４７７　チケット
+
+https://www.cic.co.jp/index.html
+CIC00001
+〒160-8375
+東京都新宿区西新宿1-23-7　新宿ファーストウエスト15階
+（株）シー・アイ・シー　郵送開示センター　宛
+住は原本、為替ＯＫ　５００円
+
+...registory
+https://www1.touki.or.jp/ 登記情報提供サービス　AAWW6072　B5%XOBLOV
+https://houmukyoku.moj.go.jp/KOSEKIMOJIDB/M01.html　戸籍文字ベース（法務省
+https://www.touki-kyoutaku-online.moj.go.jp/ 登記供託ネット　8:30-21:00        kyumeshin    B5%xoblov    りりちゃん
+
+...contracts
+https://ibd-net.co.jp/businessdb/　国際契約文例
+
+...family matters
+https://www.courts.go.jp/saiban/koukenp00/index.html　裁判所後見全国対応
+https://www.courts.go.jp/osaka/saiban/seinenkouken/index.html　大阪家裁後見センター
+https://www.courts.go.jp/osaka/vc-files/osaka/2023nendo/kasai_kouken/R5.9_inshi_yuken.pdf　後見郵券
+https://www.courts.go.jp/links/video/koukennin_no_tetuduki/index.html　最高裁の案内動画
+https://www.courts.go.jp/osaka/saiban/annai/index.html  大阪家裁一般インデックス
+https://www.courts.go.jp/osaka/saiban/l3/Vcms3_00000458.html　大阪家裁書式一般
+
+...traffic accsident
+https://www2.jcstad.or.jp/  06000079    63711400    裁定例検索システム
+
+...office
+https://portal.office.com/AdminPortal/Home#/homepage    katsura@uhllf.onmicrosoft.com   b5% MS365
+新図書室ホームページURL：https://www.lib-finder.net/osakaben/ 利用者ID： B026282 パスワード：3a2qo4syaq
+https://www.nichibenren.or.jp/activity/improvement/mimoto_kakunin/nenjihoukoku.html 日弁連　ymanouchi-katsura   5ED00610
+年次報告URL：   https://form.qooker.jp/Q/auto/ja/osaka2025/nenji01/ osakaben    a5300047
+    https://form.qooker.jp/Q/auto/ja/osaka2025/nenji01/ nenjiosaka  sjK6pjWy
+https://www.osakalaw.jp/    [no id] olc1970 大阪弁護士協同組合
+https://www.zenbenkyo.or.jp/    弁護士賠償保険	10054871	j
+　振込口座  みずほ銀行　モクレン支店　（支店コード　６３９）口座番号    普通 3090055　口座名義  大阪弁護士協同組合　金額    47,800 円
+https://www.dantaihoken.net/koken_ben/	後見賠償	00009249	b5%
+
+http://192.168.1.2/setting_basic_guest.html     SSID    Guest-0380  暗号化モード    WPA2-PSK AES    暗号化キー  guestuhl01、事務所ＬＡＮpass    WPA2-P AES 2+6+B+J
+
+10W-900160	044fe-0e08-d1ab2
+
+...Routing
+＜サイトメンテ＞
+passkey master  jsd+b5no%
+https://navi.onamae.com main    6287734     w!#Ri2Q8xjyAJik y@u
+https://cp.rentalserver.jp/Home.aspx SD server  hi6pM8A6PeV#gMPF    sd0418420   WAF all out
+https://tool.uhl.jp/phpMyAdmin　MySQL
+    sddb0040150799.cgidb    sddboqJJ99yj8   yLVgM$j4    en
+    sddb0040151057.cgidb    sddbe29aehxtQ   r&7Kj4Lv    jp
+    php.ini > tool root max50M
+
+https://www.uhl.jp
+/wp-login.php
+wpmaster    b5xoblov
+
+https://yamanouchi-katsura.uhl.jp
+/wp/wp-login.php
+ kyama  egcpyp*MN(0%Y$SufOt2Xez@
+app kyamaapps   kp5z 7bdt SHZo nfiq b0fN Ebil
+
+VPS
+https://cp5.myvps.jp/console	kyama   ev3hyM!EMeEJyKJ
+
+https://ai.uhl.jp/wp-login.php
+
+
+＜動画整理＞
+ライブ、編集、終了画面・字幕作成、発行
+https://www.youtube.com/@UHLOffical
+https://www.youtube.com/channel/UC6YBzBIOnhg55kVCRtTMZTQ
+
+
+https://www.garmin.co.jp/
+
+
+
+
+.Addresses
+弁護士会　相談課　０６－６３６４－１２３８、刑事当番　０６－６３６３－００８０、電話ガイド　０５７０－０７８－３０６    9,900 円
+振込先  みずほ銀行　第五集中支店　口座番号  普通　4260825　口座名義 全国弁護士協同組合連合会　成年後見口
+口座名義カナ    ゼンコクベンゴシキョウドウクミアイレンゴウカイ セイネンコウケングチ
+
+https://www.oki.com/jp/printing/index.html  yamanouchi-katsura@nifty.com  jyQ8dVgzy6TuUh
+
+supplyer
+https://cmypage.kuronekoyamato.co.jp/portal/login   UHLYkatsura HBxD9JNzV39S    クロネコメンバーズ
+https://www.okidokiland.com/odl/index       amazon.jp
+https://www.askul.co.jp/        アスクル（コピー用紙、文具、封筒、印鑑
+モノタロウ（部品等
+ラクテンブログ  yahoo　ｂ％＋Rakuten
+DropBox　gmaj2zzr@gmail.com　b5%xoblov
+https://share.timescar.jp/  タイムズ　qie?SMu8xyn?CT9
+https://kepco.jp/miruden/　電気　gmaj2zzr M4s3cS7f5HSEDhg
+
+tax
+https://www.keisan.nta.go.jp/r2/ta_top.htm#bsctrl           確定申告
+https://www.keisan.nta.go.jp/kyoutu/ky/sm/top#bsctrl
+
+http://www.e-tax.nta.go.jp  1582 0410 3091 1057 pKcC:9tS!zGRT6N  国税ｅ－ｔａｘ、国税　２６３５６２
+https://www.invoice-kohyo.nta.go.jp/regno-search/detail?selRegNo=9810858712059  T9810858712059  適格請求書発行事業者登録番号
+
+労働相談
+大阪中央総合労働相談コーナー
+〒540-0003
+大阪府大阪市中央区森ノ宮中央1-15-10
+大阪中央労働基準監督署内
+06-7654-1176
+
+電話での年金相談窓口
+■年金相談に関する一般的なお問い合わせ
+「ねんきんダイヤル」
+0570-05-1165(ナビダイヤル)
+
+月曜日　午前8時30分から午後7時
+火曜日から金曜日　午前8時30分から午後5時15分
+第2土曜日　午前9時30分から午後4時
+※月曜日が祝日の場合は、翌日以降の開所日初日に午後7時までご相談をお受けします。
+※休日、祝日（第2土曜日を除く）、12月29日から1月3日はご利用いただけません。
+
+■来訪相談のご予約
+「予約受付専用電話」
+0570-05-4890（ナビダイヤル）
+
+data
+https://www.jftc.go.jp/shitauke/legislation/unyou.html      下請法運用基準
+https://www.jstage.jst.go.jp/browse/-char/ja    gmaj2zzr    ptIFbn2hU0  J-Stage
+
+fit
+https://www.myfitnesspal.com/ja
+
+http://192.168.1.1　user b5
+192.168.1.2/24  60:84:BD:94:03:80   9204    VAIO
+192.168.1.3/24  56:6D:76:D2:8A:2E   8967    KAIGI１
+192.168.1.4/24  7C:F1:7E:5C:D5:73   5538    JIMU1
+192.168.1.5/24  7C:F1:7E:5C:D5:73   5538    MAINPC
+192.168.1.6/24  70:3A:2D:08:C6:45   14138   LENOVOnote
+192.168.1.7/24  00:E0:C3:1D:EC:40   11507   CAM１
+192.168.1.8/24  22:91:DC:FC:A6:E3   12551   CAM２
+192.168.1.9/24  A0:63:91:7D:93:5F   10143   TV
+192.168.1.10/24 8C:90:2D:4B:C1:D4   7437
+192.168.1.11/24 3C:07:71:6A:C9:33   11382
+192.168.1.12/24 00:25:36:1E:00:D4   7471
+192.168.1.15/24 00:F4:8D:BF:38:2B   9763    プリンタ
+
+
+Display current local time
+
+(GMT+09:00) Osaka
+
+katsura@uhl.jp
+https://yamanouchi-katsura.uhl.jp
+Social accounts
+https://www.facebook.com/yamanouchi.katsura
+https://twitter.com/uhloffical
+https://www.instagram.com/yamanouchikatsura/
+https://jp.quora.com/profile/Katsura
+
+
+## ライセンス一覧と特徴
+| ライセンス名 | 種別 | 商用利用 | 改変 | 再配布 | コピーレフト | 特許条項 | 主な特徴 |
+| No license | 著作権保留 | ✗ | ✗ | ✗ | なし | ✗ | デフォルトで全権利保留。利用者は原則何もできない |
+| MIT License | パーミッシブ | ✓ | ✓ | ✓ | なし | ✗ | 最もシンプルで自由度が高い。著作権表示のみ必要 |
+| Apache 2.0 | パーミッシブ | ✓ | ✓ | ✓ | なし | ✓ | 特許条項あり・変更点の明記が必要 |
+| BSD 2-Clause | パーミッシブ | ✓ | ✓ | ✓ | なし | ✗ | 著作権表示と免責事項の保持のみ必要 |
+| BSD 3-Clause | パーミッシブ | ✓ | ✓ | ✓ | なし | ✗ | BSD 2-Clause に「作者名の無断使用禁止」条項を追加 |
+| BSL 1.0 | パーミッシブ | ✓ | ✓ | ✓ | なし | ✗ | Boostライブラリ向け。ヘッダのみ保持で再配布可 |
+| CC0 1.0 Universal | パブリックドメイン | ✓ | ✓ | ✓ | なし | ✗ | 全権利を放棄。著作権表示すら不要 |
+| The Unlicense | パブリックドメイン | ✓ | ✓ | ✓ | なし | ✗ | CC0 と同様の完全解放。明示的な無制限宣言 |
+| GPL v2.0 | コピーレフト（強） | ✓ | ✓ | ✓ | 強い | ✗ | 派生物も必ず GPL v2。特許条項なし |
+| GPL v3.0 | コピーレフト（強） | ✓ | ✓ | ✓ | 強い | ✓ | GPL v2 に特許条項・チート防止条項を追加 |
+| AGPL v3.0 | コピーレフト（最強） | ✓ | ✓ | ✓ | 最強 | ✓ | ネットワーク越しのサービス提供にもコピーレフトが適用 |
+| LGPL v2.1 | コピーレフト（弱） | ✓ | ✓ | ✓ | 弱い | ✗ | ライブラリ向け。リンクするだけなら GPL 不要 |
+| EPL 2.0 | コピーレフト（弱） | ✓ | ✓ | ✓ | 弱い | ✓ | モジュール単位でコピーレフト適用。企業向け |
+| MPL 2.0 | コピーレフト（弱） | ✓ | ✓ | ✓ | 弱い | ✓ | ファイル単位でコピーレフト適用。他ライセンスとの混在が容易 |
+
+### コピーレフトの強さのイメージ
+パブリックドメイン < パーミッシブ < 弱いコピーレフト < 強いコピーレフト < 最強
+(CC0, Unlicense)   (MIT, Apache等)  (LGPL, EPL, MPL)    (GPL v2/v3)       (AGPL)
+**コピーレフト**とは「派生物も同じライセンスで公開する義務」のことです。強いほどソースコード開示の義務が広範囲に及びます。
+
+組み合わせ	安全度	補足
+MIT + Apache 2.0	✅ 概ね安全	Apache 2.0 部分のみ特許保護あり
+BSD + Apache 2.0	✅ 概ね安全	同上
+GPL v3 + Apache 2.0	✅ 安全	FSFが互換性を認めている
+GPL v2 + Apache 2.0	❌ 非互換	組み合わせ不可
+MIT + GPL v2	✅ 安全	MIT は柔軟に吸収される
+LGPL + Apache 2.0	⚠️ 要確認	バージョンや使い方による
+
+"""
+Sample bot that returns interleaved results from GPT-3.5-Turbo and Claude-instant.
+
+"""
+import asyncio
+import re
+from collections import defaultdict
+from typing import AsyncIterable, AsyncIterator
+#from fastapi import FastAPI
+
+import fastapi_poe as fp
+
+async def combine_streams(
+        *streams: AsyncIterator[fp.PartialResponse]
+) -> AsyncIterator[fp.PartialResponse]:
+    """Combines a list of streams into one single response stream.
+    Allows you to render multiple responses in parallel.
+    """
+    active_streams = {id(stream): stream for stream in streams}
+    responses: dict[int, list[str]] = defaultdict(list)
+
+    async def _advance_stream(
+        stream_id: int, gen: AsyncIterator[fp.PartialResponse]
+    ) -> tuple[int, fp.PartialResponse | None]:
+        try:
+            return stream_id, await gen.__anext__()
+        except StopAsyncIteration:
+            return stream_id, None
+
+    while active_streams:
+        for coro in asyncio.as_completed(
+            [
+                _advance_stream(stream_id, gen)
+                for stream_id, gen in active_streams.items()
+            ]
+        ):
+            stream_id, msg = await coro
+            if msg is None:
+                del active_streams[stream_id]
+                continue
+
+            if isinstance(msg, fp.MetaResponse):
+                continue
+            elif msg.is_suggested_reply:
+                yield msg
+                continue
+            elif msg.is_replace_response:
+                responses[stream_id] = [msg.text]
+            else:
+                responses[stream_id].append(msg.text)
+
+            text = "\n\n".join(
+                "".join(chunks) for stream_id, chunks in responses.items()
+            )
+            yield fp.PartialResponse(text=text, is_replace_response=True)
+
+def preprocess_message(message: fp.ProtocolMessage, bot: str) -> fp.ProtocolMessage:
+    """Process bot responses to keep only the parts that come from the given bot."""
+    if message.role == "bot":
+        parts = re.split(r"\*\*([A-Za-z_\-\d]+)\*\* says:\n", message.content)
+        for message_bot, text in zip(parts[1::2], parts[2::2]):
+            if message_bot.casefold() == bot.casefold():
+                return message.model_copy(update={"content": text})
+        # If we can't find a message by this bot, just return the original message
+        return message
+    else:
+        return message
+
+def preprocess_query(request: fp.QueryRequest, bot: str) -> fp.QueryRequest:
+    """Parses the two bot responses and keeps the one for the current bot."""
+    new_query = request.model_copy(
+        update={
+            "query": [preprocess_message(message, bot) for message in request.query]
+        }
+    )
+    return new_query
+
+async def stream_request_wrapper(
+    request: fp.QueryRequest, bot: str
+) -> AsyncIterator[fp.PartialResponse]:
+    """Wraps stream_request and labels the bot response with the bot name."""
+    label = fp.PartialResponse(
+        text=f"**{bot.title()}** says:\n", is_replace_response=True
+    )
+    yield label
+    async for msg in fp.stream_request(
+        preprocess_query(request, bot), bot, request.access_key
+    ):
+        if isinstance(msg, Exception):
+            yield fp.PartialResponse(
+                text=f"**{bot.title()}** ran into an error", is_replace_response=True
+            )
+            return
+        elif msg.is_replace_response:
+            yield label
+        # Force replace response to False since we are already explicitly handling that case above.
+        yield msg.model_copy(update={"is_replace_response": False})
+
+class GPT35TurbovsClaudeBot(fp.PoeBot):
+
+    firstbot = "GPT-3.5-Turbo"
+    secondbot = "Claude-2"
+
+    async def get_response(
+        self, request: fp.QueryRequest
+    ) -> AsyncIterable[fp.PartialResponse]:
+        streams = [
+            stream_request_wrapper(request, bot)
+            for bot in ("GPT-3.5-Turbo", "Claude-2")
+        ]
+        async for msg in combine_streams(*streams):
+            yield msg
+
+    async def get_settings(self, setting: fp.SettingsRequest) -> fp.SettingsResponse:
+        return fp.SettingsResponse(
+            server_bot_dependencies={"GPT-3.5-Turbo": 1, "Claude-2": 1}
+        )
+
+if __name__ == "__main__":
+    fp.run(GPT35TurbovsClaudeBot(), api_key='RQqQMxFsvcUTXICvzli6HZaGuFtzzt54',port=8003)
+
+.＝＝＝＝＝倫理・ポリシー＝＝＝＝＝＝
+【独立不羈】
+    上杉鷹山「為せば成る 為さねば成らぬ 何事も 成らぬは人の 為さぬなりけり」
+    武田信玄「為せば成る 為さねば成らぬ 成る業を 成らぬと捨つる 人の儚き」
+
+　弁護士に必要な技量を磨き続けることが恩返しの道
+　積極的な営業活動をしないからこそ，日々の顧客対応が肝心である
+　すべての接触する相手が，広告宣伝係であり，将来の顧客予備軍である
+　たとえ事件の相手方や取引業者であっても顧客と同様の敬意と愛情をもって待遇すべし
+　怒るべき時は怒り、笑うべき時は笑え。感情は物事を促進する
+
+..格言
+...ＶＳＯＰ
+Vitlity バイタリティ 一生懸命仕事をしよう　Work much harder
+Speciality スペシャリティ 専門技術を身につけよう Get your speciality
+Originality オリジナリティ 創意工夫　Make your own way
+Personarity パーソナリティ 心を磨く　Shape you up
+
+Work more harder.
+Get your speciality.
+Make your own way.
+Shape you up.
+
+
+...日々の戒めとしたい名言
+「弁護士は米一粒，釘一本もよう作らんくせに，良えの悪いのと言うて，好きな事をやって一生を送るもんやさかいに，むさぼってはいかん。ねうちは世間がきめてくれる。ただ一生懸命に技量をみがく以外に，世間へのお返しの途はない。また，弁護士になった以上，末路哀れは覚悟の前やで」（桂米團治＞桂米朝）
+　A lawyer should not want too much. No one could make neither a piece of rice nor a nail, You can enjoy and spend your all life as you want to be and to do. People can see your price tag considering your attitude.
+　It is only way for you to study much harder in your profession. Once you became a lawyer, you must know the end of your life should be painful(Beicho Katsura).
+
+"A lawyer says that he makes a grain of rice and a nail, but he says it's bad and bad, and he doesn't want to devour him for his life by doing what he likes. It will be decided. There is no way to give back to the world other than just polishing the skill hard. Also, since I became a lawyer, the pity of the end is before I am prepared. "(Katsura Beichou> Katsura Beichou)
+
+
+一包は万象を容る
+　A tiny bag can contain everything.(Even when you have a tiny bag, you should fill fully your best, as if you have an infinity bag.)
+
+スピードと品質の両立　Speeding is Justice.
+
+
+...ダメな経営者のモデル
+　ヤル気がない
+　浪費
+　現実と願望を混同している
+　過去の成功体験にしがみついている
+　具体策がない
+　自己分析ができていない
+　自己の弱みと強みを客観的に把握していない
+　公私混同
+
+
+...精神科医のGood methods
+　くつろがせる
+　精神状態を把握する
+　苦痛に共感する
+　活気付くように援助する
+　猜疑心に打ち勝てるよう援助する
+　差し出がましい姿勢を制御する
+　言葉をうまく見つけるように励ます
+　とりとめのない姿勢を制御する
+　感情に波長を合わせる
+　感情を話題にする
+　洞察のレベルを知る
+　障害に対する見解を認識する
+　明確な解決目標を設定・提示する
+　自分が当問題に精通していることを伝える
+　質問によって当問題に精通していることを相手が確信する
+　相手が一人で戦っているのではないと知らせる
+　援助する意思があることを表明する
+　専門的意見を理解する
+　権威性に敬意を示する
+　依頼者の姿勢を確認できる
+　距離をおいた視点に立っている
+　相手は共感されることを切願している被害者として振舞う
+　非常に重要な案件であると思わせるように振舞う
+　問題に対する権威者として張り合う
+　自分の役割を相手の役割にうまくあわせる
+　感謝の意を表し次回の予約をとる
+
+...-死ぬ前に語られる5つの後悔-
+1.「自分自身に忠実に生きれば良かった」　「他人に望まれるように」ではなく、「自分らしく生きれば良かった」
+2.「あんなに一生懸命働かなくても良かった」　「仕事に時間を費やしすぎず、もっと家族と一緒に過ごせば良かった」
+3.「もっと自分の気持ちを表す勇気を持てば良かった」　「可もなく不可もない存在で終わってしまった」
+4.「友人関係を続けていれば良かった」　「もっと友達との関係を大切にしておくべきだった」
+5.「自分をもっと幸せにしてあげればよかった」　「変化を無意識に恐れ「選択」を避けていた」
+
+...グッドサービス評価基準
+　選択の余地があること
+　すぐに面倒を見てもらえること
+　雰囲気がよいこと
+　サービス提供中の親切さ，礼儀正しさ，手助けの仕方，等の応答態度のよさ
+　顧客側のリスク感が低いこと
+　問い合わせへの応対の早さ，正確さ
+　苦情に対する誠意ある対応
+　サービスの個別化、きめ細かさ
+
+...電通　鬼十則
+１　仕事は自ら創るべきで、与えられるべきではない。
+２　仕事とは、先手先手と働き掛けていくことで、受け身でやるものではない。
+３　大きな仕事と取組め！　小さな仕事は己を小さくする。
+４　難しい仕事を狙え！　そして成し遂げるところに進歩がある。
+５　取組んだら放すな！　殺されても放すな！　目的を完遂するまでは．．．
+６　周囲を引きずり回せ！　引きずるのと引きずられるのとでは、永い間に天地の開きができる。
+７　計画を持て！　長期の計画を持っていれば、忍耐と工夫と、そして正しい努力と希望が生まれる。
+８　自信を持て！　自信が無ければ、君の仕事には、迫力も粘りも、そして厚みすら生まれない。
+９　頭は常に全回転、八方に気を配って、一部の隙もあってはならぬ！　サービスとはそのようなものだ。
+１０　摩擦を怖れるな！　摩擦は進歩の母、積極の肥料だ。でないと君は卑屈未練になる。
+
+...医療のプロフェッション論
+　質の高いサービス
+　説明と承諾の徹底
+　サービスの人間化
+　記録の充実
+　判断書の作成
+　急ぎ・理解力不足注意
+　コミュニケーションのための訓練
+
+...医療対話のための基本ステップ
+●準備
+　　会話をはじめる
+　　能動的に聴く
+　　聞いたことを認める
+　応答する
+
+●技能モデルを使ったコミュニケーション
+　準備
+　　事実をもう一度確認しましょう
+　　適切な同席者を決め、参加させましょう
+　　適切な環境を準備（使用）しましょう
+　対話のはじめ方
+　　患者さんとご家族の心の用意ができているか確認しましょう
+　　患者さんとご家族の医療知識、理解力はどのくらいか評価しましょう
+　　患者さんとご家族の医療に対する大まかな理解力の水準を確認しましょう
+　起こったことの説明の仕方
+　　起こったことをそのまま説明
+　　その時点で分かっている結果は何か
+　　次に起こるであろうことを説明しましょう
+　　患者さんとご家族の苦しみを誠実に認めましょう
+　対話の締めくくり方
+　　話したことの要約をしましょう
+　　質問された主な項目を繰り返しましょう
+　　継続して面倒を見ることを確約しましょう
+　記録する
+　　事故を記録しましょう
+　　どんな議論があったかを記録しましょう
+
+●コミュニケーションに関して他に考慮すべき点
+　専門用語を用いないように
+　文化や言語が理解の妨げになる
+　ゆっくり話しましょう
+　身振りに注意しましょう
+　多すぎる情報で混乱させないようにしましょう。同時に、物事を単純化しすぎないようにしましょう
+　質問を受ける十分な時間を確保しましょう。自分一人でしゃべらないようにしましょう
+
+...Psychiatry in Primary Care
+1）患者との「つながり」をつくる
+　【Love ＆ Respectの法則】 「女性には愛を、男性には敬意をもって接する」
+2）「在り方」は「やり方」よりも重要
+3）システムとチームを活用する
+4）一歩踏みこんで話を聞く
+　会話の主導権は常に質問している側が持つ。「長い話を聞かない」ためには、常に質問する側・答える側の関係性を維持する
+　プライベートな事項に関する質問も、ためらわず、一歩踏み込んで、核心を尋ねる。自分の背景や内面に対して興味・関心を寄せてくれることは、うれしいこと
+5）長い話が始まったら、すぐに止める
+　話を止める技術は、「なるほど（相槌）、それはつらかったですね（承認）、ところで・・・はいかがですか（質問）？」である
+
+...表1　アンプロフェッショナルな行動のカテゴリー
+■欠席・遅刻するなど責任感がない
+■同僚等との人間関係に問題がある
+■指摘しても改善が見られない
+■患者や家族との人間関係に問題がある
+■未熟
+■不安や緊張感に伴うアンプロフェッショナルな行動
+■他の学生・研修医や教員との人間関係に問題がある
+（出典：Disciplinary Action by Medical Boards and Prior Behavior in Medical School. N Engl J Med. 2005;353:2673-82.）
+
+...表2　アンプロフェッショナルな行動のレベル
+Class 1：規則に従わない。フィードバックすると誤りであることを認める。改善のため自分で助けを求める。
+Class 2：実習に積極的に参加せず、しばしば欠席する。コミュニケーションも不足している。フィードバックをすると異なる視点と捉える。変わろうとする意志はある。
+Class 3：対人コミュニケーションやチームワークに問題がある。他者から得られた情報を理解していない。敬意を持って他者に接していないことに、本人は気付いていない。フィードバックを受け入れられない。
+（出典：Distinguishing Three Unprofessional Behavior Profiles of Medical Students Using Latent Class Analysis.Academic Medicine.2016;91(9):1276-83.）
+
+...表3　アンプロフェッショナルな医学生の例
+【事例1】初日の集合時間（朝9時）に、連絡なく大幅に遅刻して午後（13時）にしか出てこなかった。さらに、以後毎日、病院の職員が学生宿舎まで迎えに行かなければ、実習に出てこなかった。⇒診療チームの一員としての責任感の問題
+
+【事例2】診療チームの一員として、毎朝、担当患者さん（1名）を回診して、9時からの指導医回診でその状況を報告する役割を与えているが、全く患者さんのところに行かないばかりか、指導医回診で虚偽の報告を行った。⇒診療チームの一員としての責任感＋誠実な行動の問題
+
+【事例3】臨床実習にほとんど出席せず、遅刻した症例発表会での発表内容、症例報告レポートの内容が非常に乏しかったため、追加レポートを求めたところ、真夜中に病棟に現れて、カルテのプリントアウトを大量に行った。プリントアウトの最中にナースステーション内でゲームをしていたため、夜勤の看護師が指摘したところ、素直に従わないどころか、「看護師のくせに偉そうなことを言うな」と逆ギレした。⇒診療チームの一員としての責任感＋知識・技能の向上に対する努力＋他職種との協働＋患者に関する情報の守秘義務の問題
+
+【事例4】実習中にどこで何をしているのか分からない上に、PHSで連絡をしてもつながらない。なんとか見つけだして担当患者さんの病状説明（癌の告知）に同席させたところ、居眠りをしてしまい、患者さんが激怒した。⇒診療チームの一員としての責任感＋患者さん/家族に対する態度の問題
+
+【事例5】実習中に、連絡なく欠席・遅刻を繰り返した。最終日に、レポートの内容が乏しいことを指摘すると、ふてくされた態度になった。無断欠席・遅刻に関して医学生としてふさわしくないことを伝えると、謝るどころか、無言のままでプイとそっぽを向いて部屋を出て行った。⇒診療チームの一員としての責任感＋知識・技能の向上に対する努力＋指導医/教員の指摘を受け入れる姿勢の問題
+
+【事例6】指導医・他の医療スタッフに対して、基本的な挨拶（おはようございます、ありがとうございました、すみません、など）が全くできず、また十分なコミュニケーションもとれない。担当患者さんに対しても同様の態度であったため、患者さんからクレームが来た。そのことを学生に伝えると、「あんな患者は○○病院に来なくていい」と言い出した。⇒患者さん/家族に対する態度＋指導医/教員の指摘を受け入れる姿勢＋礼儀と基本的な挨拶
+
+【事例7】臨床実習で担当した外国人の患者から、担当学生の態度がよくないとのクレームがあった。これを学生に伝えたところ、「こんなことで文句言うなんて絶対おかしい。あいつら○○人って、やっぱり、価値観、変」と、ナースステーションで、患者さんに声が聞こえることも気にせずに大声で叫んだ。⇒患者さん/家族に対する態度＋社会的カテゴリーに基づく差別
+
+【事例8】ツイッターに「○○病院の呼吸器内科で実習中なう。めっちゃまれな○○病の患者さんの担当になったので勉強が大変(> <)。でも若い女の子（しかも家が下宿の近所！）なのでいつも以上に頑張っています！」とツイートし、さらにはフェイスブック（自分の下宿の住所が閲覧可能）に友達限定で同じ内容をレントゲン写真つきでアップした。⇒患者に関する情報の守秘義務の問題
+
+【事例9】ある勉強会に参加したところ、製薬会社が後援しており、とても高価な弁当をごちそうになった。以後、製薬会社の後援する弁当付き勉強会に診療科を問わず全て出席した。さらに、どの製薬会社がどの程度の値段の弁当を提供しているかについてのランキング表を写真付きで作り、「こんな弁当がただで食べられるなんて、やっぱ医者ってすげー。でも○○製薬さんにはもうちょっと頑張ってもらわないとね」とのコメントをつけて自身のブログにアップした。⇒利益相反による弊害
+
+【事例10】一緒に住んでいる甥が3日前に病院でインフルエンザと診断された。昨日から自分も熱が出てきたが、次の実習先の診療科は厳しいとの評判を聞いていたので、休まずに臨床実習に出席し、担当患者さん（免疫抑制状態）のベッドサイドに毎日足を運び、看護師とのカンファランスにも積極的に出席した。「熱っぽいの？大丈夫？」と指導医に言われたが、「大丈夫です」とだけ答えた。⇒院内指針の遵守の問題
+
+【事例11】○○診療科では、毎朝、担当患者を診察して、その内容をカルテに記録し、指導医に内容を確認してもらうことになっていた。ある日、寝坊して、朝、病院に行けなかった。指導医にはたまたま（寝坊したことが）見つからなかったが、患者さんは検査に行ってしまって、朝の回診はできなかった。その診療科の教授がとても怖いという評判だったので、電子カルテの記載時間を修正して（調整して）、午前中に診察したかのように電子カルテに記録した。⇒不正行為への関与
+
+【事例12】朝のカンファレンスにギリギリにやってきたかと思えば、寝ぐせだらけの頭に無精髭、ダメージジーンズ、裸足にクロックス、実習が始まってから1回も洗濯に出していなさそうな白衣を羽織って前のボタンも留めずに現れた。患者さんやスタッフから苦情が来たため、服装を正すように本人に伝えたが、本人は気にしている様子は全くなく、実習中、ずっと同じような格好で病棟に現れた。⇒服装＋指導医/教員の指摘を受け入れる姿勢の問題
+
+
+...弁護士会市民苦情相談窓口からの示唆
+　要注意事件の類型　…阻害要因
+　　家事・相続，交通事故，医療事故，債務整理，貸金等請求，労働　…被害感情の高ぶり、暴走
+　　不動産関係　…専門知識のなさ
+　　刑事事件　…熱意のなさ
+　要注意事項　…対策
+　　結果に不満がある　　　…甘い見通しをしない，有利・不利判断は断言する
+　　履行催告をしてくれない　　…事前に受任範囲を説明する
+　　敗訴に関する説明がない　　…判決前に見通しを説明する
+　　専門知識がない　　…事前に調査する。自信のない事件は受けない，徹底的な事情聴取と対策検討
+　　相手方弁護士との談合　　　…仕事は厳しく行う
+（特に基本的な事項）
+　事件に関する報告がない
+　無断で和解・調停をした
+　原本・記録を返還しない
+　一方的に辞任した
+　事件処理がずさん
+　意思確認が不足している
+　事件処理が事務員まかせ
+　非弁提携
+　双方代理・利益相反の疑い
+　事件処理が遅い
+　態度・言葉遣いが横柄尊大乱暴品位に欠ける
+　書面の内容が脅迫的・名誉毀損的
+　不当な訴訟提起・不当な強制執行
+　電話に出ない
+　交渉を拒否した
+　和解等を履行しない
+報酬関連
+　内容説明がない
+　約束額と異なる
+　高い
+　算定方法が不満
+　預り金額が不明
+　預り金・解決金を事件後返還・精算しない
+
+..バイスティックの７原則
+対象者をクライエント、援助者をワーカーという
+1. 個別化の原則
+　クライエントの抱える困難や問題は、どれだけ似たようなものであっても、人それぞれの問題であり「同じ問題は存在しない」とする考え方。この原則において、クライエントのラベリング（人格や環境の決めつけ）やカテゴライズ（同様の問題をまとめて分類してしまい、同様の解決手法を執ろうとする事）は厳禁となる。
+※自己点検：外面的に同じような状況に見えても、人それぞれ育ってきた環境が違い、価値観も違う。今目の前にいる人は世界に一人しかいないということを肝に銘じておかなければならない。援助がパターン化していないか。偏見や先入観にとらわれていないか。自分のペースで話を進めていないか。「忙しそうですね」と言われていないか。
+
+2. 意図的な感情表現の原則
+　クライエントの感情表現の自由を認める考え方。特に抑圧されやすい否定的な感情や独善的な感情などを表出させることでクライエント自身の心の 枷かせを取り払い、逆にクライエント自身が自らを取り巻く外的・内心的状況を俯瞰しやすくする事が目的。またワーカーもクライエントに対しそれが出来るように、自らの感情表現を工夫する必要がある。
+※自己点検：話しやすい雰囲気を意識しているか。座る位置はそこで良いのか。開かれた質問と閉じられた質問を意識しているか。リラックスできているか。同じ流れの中に入れているか。
+
+3. 統制された情緒関与の原則
+　ワーカー自身がクライエント自身の感情に呑み込まれないようにする考え方。クライエントを正確にかつ問題無くケース解決に導くため「ワーカー自身がクライエントの心を理解し、自らの感情を統制して接していく事」を要求する考え方。
+※自己点検：自分の感情を自覚できているか。今抱いている感情は誰の感情なのか。共感の及ぼす過度な感情移入をしていないか。目的を意識しながら反応できているか。時期は適切か。急ぎすぎていないか。安易な情緒的関与をしていないか。平常心は保てているか。
+
+4. 受容の原則
+　クライエントの考えは、そのクライエントの人生経験や必死の思考から来るものであり、クライエント自身の『個性』であるため「決して頭から否定せず、どうしてそういう考え方になるかを理解する」という考え方。この原則によってワーカーによるクライエントへの直接的命令や行動感情の否定が禁じられる。
+※ 自己点検：クライエントの人となりを吟味しているか。今起きている現実をありのまま受け止められているか。ギアはニュートラルに入っているか。ハンドルにあそびはあるか。
+
+5. 非審判的態度の原則
+　クライエントの行動や思考に対して「ワーカーは善悪を判じない」とする考え方。あくまでもワーカーは補佐であり、現実にはクライエント自身が自らのケースを解決せねばならないため、その善悪の判断もクライエント自身が行うのが理想とされる。また人間は基本的に当初において自らを否定するものは信用しないため受容の観点からも、これが要求される。
+※自己点検：違う角度からもみるようにしているか。多面的に捉えているか。色目めがねをかけていないか。木も森もみえているか。常識という枠にとらわれていないか。
+
+6. 自己決定の原則
+　「あくまでも自らの行動を決定するのはクライエント自身である」とする考え方。問題に対する解決の主体はクライエントであり、この事によってクライエントの成長と今後起こりうる同様のケースにおけるクライエント一人での解決を目指す。この原則によって、ワーカーによるクライエントへの命令的指示が否定される。
+※自己点検：今目の前にいる人が本来持っている生きる力や強さはどのくらいあるのか。本人の意思をしっかり確認しているか。実際発した言葉は本心なのか。緊急性はあるのか。周りの人の援助は期待できるか。援助が行き過ぎていないか。働きかけによって解決できる力が発揮できる可能性があるか。
+
+7. 秘密保持の原則
+　クライエントの個人的情報・プライバシーは絶対に他方にもらしてはならないとする考え方。いわゆる「個人情報保護」の原則。他方に漏れた情報が使われ方によってクライエントに害を成す可能性があるため。
+※自己点検：秘密保持を意識しているか。個人情報の使用にあたってクライエントに不安をあたえていないか。個人情報の管理はしっかりできているか。
+
+F.Pバイスティック著　尾崎　新・福田俊子・原田和幸訳「ケースワークの原則」誠信書房　参照
+
+
+..大失敗 したとき
+　素直に謝る
+　誠心誠意かつ迅速に熱意を持って，損害を最小限に抑える
+　無理をしない
+　大いに反省し，改善に努める
+　金銭解決を図る
+    弁護士賠償保険サイト
+https://www.dantaihoken.net/benbai/user/su0000/SU000000.php/
+
+〒５４１－００５７
+大阪市中央区北久宝寺町３－６－１　本町南ガーデンシティ１３階
+　弁護士賠償　損保ジャパン大阪サービスセンター　６２２７－４４７１
+　　月２回の審査（弁護士賠償責任保険審査会）がある。その２W前に保険会社担当者が事案をまとめる
+　　０５０－３７９８－８２８０
+　　土日祝日を除く午前９時から午後５時まで
+
+
+..マネジメント
+主業務
+　材料をもってくるのは客で、それで製品をつくるのが弁護士
+　材料不足でオーダーに応えられないときは、できないとはっきりさせる
+　　・手続き知識が不足しているのに受任するな　・一つの用事で裁判所に何度も通うな
+　時間的に優先しなければならない仕事を厳格に処理する
+　業務報告書は必ず定期的に提出する
+　提出先からの問い合わせがこないように、情報は正確に過不足なく伝達する
+　新件を入れられる日時を決めておいて，事務局フリーにする
+　期日連絡のオートメーション化・迅速化
+　帳簿関係の作成は必要不可欠なものだけにする
+　できるだけ外出回数を減らす（一括処理）
+　職員の事務範囲を広げて、弁護士前後作業の解決をはかる
+　会計や外出、外注可能な業務は外部委託する（司法書士、税理士、興信所・・・）
+　機械化・省力化・業務マニュアル・クリニカルパス作成
+　職員の給与アップがよいサービスへの動機づけになる
+　申立関係は完璧に実行する
+　文書の標目・表題は作成時に明確にする
+　和解条項、弁論要旨は期日前に作成する
+　預かり資料は厳格管理し，かならず返却する
+　債権調査の認否は１週間前に提出する
+
+購買基準
+　必要なものを必要なだけ
+
+　使い捨てではなく長く使える
+　包装がないもの包装を再利用できる
+　作る・使う・捨てるエネルギーが少ない
+　環境汚染がない
+　自然と生物多様性をそこなわない
+　輸送コストの少ない
+　社会的公平な費用負担
+　リサイクル品
+
+　環境認識の高い企業から
+
+
+..マーケティング
+基本戦略
+　時間単価の高いものを先に済ませ、時間単価の安い事件は余り時間で処理する
+　アウトソースできるものは専門職連携 （同業、税務、登記、社会保険労務、行政、その他
+
+データ
+収入のチャンネル売上単価上位・・・どこから売り上げているか
+　準顧問（後見
+　顧客の紹介
+　医療研
+　顧問先
+　法テラス
+　弁護士会
+　他弁護士
+　その他（執筆
+
+事件種類別の時間単価上位・・・どの事件が効率がよいか
+弁護士の関与比率・・・どの程度アウトソーシングできるか
+　医療事件
+　成年後見
+　一般民事商事
+　一般家事
+　特別代理
+　執筆
+　刑事
+
+
+...ＣＩ
+Ｗｅｂデザインコンセプト
+　相談しやすい弁護士　報酬の明示（報酬規定の整備）
+　専門分野の明示　取扱業務の実績表示
+　　医療事故
+　　高齢者・障害者・成年後見
+　　親族・相続・遺言
+　　違法金融被害・民事再生・破産・債務整理
+　　マンション管理
+　　不動産取引・借地・借家
+　　人権・環境・公害
+　　一般民事商事（債権回収，競売・担保権の実行）
+　　会社法・商取引・その他の商事一般
+　　民事介入暴力・ハラスメント
+　　犯罪被害者援助
+　　 プロボノ活動（刑事当番弁護，国選弁護，公益的集団訴訟）
+（特に関心のある産業分野）
+　　　宇宙・航空業界
+　　　自動車・モーターサイクル・バイシクル業界
+　　　インターネット，情報通信業界
+　　　ＲＣ、ドローン業界
+　　　提携）税理士・社会保険労務士・土地家屋調査士・司法書士・弁理士
+　（新開拓分野）
+　　　労働事件
+　　　著作権
+　　　知的財産権（特許，実用新案，意匠，商標）
+　　　独占禁止法，不正競争防止法
+　　　隣地紛争（通路・境界等）
+　　　行政事件（情報公開を含む）
+　（扱わない）
+　　　税務訴訟
+　　　渉外事件（外国関係の民事・家事事件）
+
+.3C
+顧客　Customers
+　非営利個人
+　営業個人
+　中小法人
+
+競合　Competitors
+　個人事務所
+　中小事務所
+　グループ事務所
+
+自社　Company
+　個人
+　補助者
+　　不動産
+　　税務
+　　登記
+
+　支援者
+　　保険
+　　営業
+
+https://www.bizclip.ntt-west.co.jp/login
+
+
+.お礼
+〒５３２－０００３  大阪市淀川区宮原５－６－３－７０７  水元　厚彦　様
+〒５７２－０８４１  大阪府寝屋川市太秦東が丘３３－６    坂東　ひとみ　様
+〒５９８－００４７  大阪府泉佐野市りんくう往来南５－２５    株式会社ＹＥＬＬＯＷ　代表取締役　松村ゆかり　様
+〒６１４－８３６６  京都府八幡市男山泉３－１９  水元　克浩　様　０７５－９８３－８５５２
+
+〒５５８－０００４  大阪市住吉区長居東４－１６－３－３０２  西原　順子　様
+〒５５８－００４１  大阪市住吉区南住吉１－１２－４－７１２  柳　福子　様
+〒５４３－００１２    大阪府大阪市天王寺区空堀町９－２９　サンコー第二ハイツ１０２    水元　邦明　様
+
+〒５９４－００１３　大阪府和泉市鶴山台２－１０－４８－２０７　河田　マス子　様
+
+.＝＝＝＝＝事務所運営編＝＝＝＝＝＝＝
+ＢＣＰ　１７１
+
+場所条件
+　場所：梅新東交差点中心にして新御堂筋の東側３００ｍ以内の範囲（名前による制限
+　広さ：執務スペース８㎡以上、打合せスペース２０㎡以上、事務局・ユーティリティスペース８㎡以上＝全体で３６㎡（１２坪）程度
+　窓を含めた開口部が２方向以上ある
+　建物：ＥＶあり（なしの場合は１階限定）、駐輪場が屋内もしくは自転車の室内持込、個別冷暖房、機械警備
+　その他：消費者金融・風俗の同居は不可
+　賃料トータル１５万円程度まで
+
+事業承継計画
+　２０３０年に事業引退、２０４３年に人生引退
+
+関係業種
+　低姿勢かつ謙虚であること
+　同業者（渉外、税務、行政
+　税理士，保険代理店、不動産業者、司法書士，社会保険労務士、不動産鑑定士，公認会計士、社会福祉士、執行業者（執行、開錠、設備関係・・・）、公証人
+
+
+..連絡先のリスト
+たさかＧワークス    072-803-8972
+商号    たさかＧワークス
+代表者名    田阪　浩三
+所在地  大阪府寝屋川市錦町１０－２０
+免許番号    大阪府知事免許（１）第６２３８４号
+TEL 072-803-8972
+FAX 072-803-8973
+所属団体名  （一社）大阪府宅地建物取引業協会
+
+不動産：リーフハウス不動産　鈴木　TEL ： 06-4790-8070 / FAX ： 06-4790-8071
+
+司法書士：
+税理士：高橋、溝部
+社会保険労務士：新田
+公認会計士：
+社会福祉士：
+執行補助：三輪商事　星野　06-6360-5877　０９０－９７０２－２９１３　０６－６３６０－５８８８
+営業部
+：鈴木　０８０－５３３４－４９９１
+０９０－４６９１－８５５５　桂先生
+
+弁護士会図書室　６３６４－０２５６
+国税局税務相談室　０３－３２１６－０５１１
+社会保険庁中央年金相談室　０３－３３３４－３１３１
+柳　　０８０－４９１５－２９３４
+久保　０９０－３６２３－７７５１
+小嶋　０９０－５４６１－４３８８
+岡崎　０９０－４７６４－８５２８
+中西　０９０－９０５２－９６９０
+塩崎　６３０７－７２７１
+池田　０９０－４２９７－４５８０
+
+藤原　０７４２－４９－１８９３
+
+もちきち　https://www.mochikichi.co.jp/products/detail/10021  y@n c-aB6HFNK4-Jge-
+
+溝部税理士事務所 <miz-zei@nifty.com>
+小西（荻野　ogi524ogi@yahoo.ne.jp
+
+
+
+..日常業務
+始業時速やかに完了すべき事務は次のとおりとする。
+　 室内清掃、換気
+　午前中来客対応
+
+正午に郵便物の引取りと仕分けをすること。
+
+昼休み後事務
+
+午後６時までに、普通郵便をポストすること。
+
+次の事務をするときは担当弁護士の事前承認を得ること
+　 外部への文書送付（郵送，ファクス，手渡し含む）
+　 外部への電話連絡（すべての事件関係者。事務処理関係の業者を除く）
+
+次の事務をしたときは担当弁護士に事後報告すること
+　 電話を受けたとき
+　 不在時に来客対応したとき
+
+最終の退出者は次の事項に責任をもつこと
+　 照明・コンロは消してあるか
+　 パソコン・エアコンのスイッチは切れているか（複合機、ネット環境のみ常時オン）
+　 窓は全部施錠されているか
+　 玄関は施錠したか
+
+備品管理
+　 備品、印紙切手等を購入するに際しては、在庫数と購入予定数とを事前に報告すること
+　為替の期限に注意、手数料高いので、いったん換金すること
+
+　推奨セット（切手　１００，１１０，１４０，１８０，２７０）
+　　　　　　（印紙　５００，２００，１００，５０，１０）　高額印紙は都度調達
+　　　　　　（商品券　１０００，５０００　JCB　金券調達
+
+対応の一般論
+　電話の対応は事務所の格を決める第１の関門である
+　事務局の対応ががさつ・素人では、弁護士も信用を得られない
+
+来客・電話対応要領
+優先順位
+　１　顧問先，裁判所・法務局・役所等の公的機関，現在継続中案件の顧客
+　　＊直ちに弁護士の携帯電話へ連絡を取り，指示を仰ぐ
+　　＊突然の来訪でもできる限り迅速に対応する
+　２　一般の顧客・事件の相手方
+　　携帯電話への連絡は不要
+　　伝言メモを残すか，弁護士と連絡が取れ次第伝えれば足りる
+　　突然の来訪は、予約をしてもらわないとお会いできないことを伝えて、待ってもらわずにいったんお引き取り願い，こちらから電話する旨伝える
+　　弁護士から事前に指示を受けていない限り，金品を預からないようにすること
+　　ただし，緊急の要件（前記参照）である場合には，念のため弁護士の携帯電話へ連絡して指示を仰ぐ
+　３　顧客や相手方以外の第三者，営業など
+　　営業に関しては応答不要
+　　それ以外の不明来訪者は，差し支えなければ用件まで伺っておき，伝言メモのみでよい
+特殊ケース＞
+　弁護士が相談予約を忘れていた場合
+　　＊直ちに弁護士に連絡をとり，出来ればその場で打ち合わせて新しい期日を入れる。
+　　　詫びとして３０００円程度（遠方来訪の場合は交通費を勘案して適宜加算）の商品券を渡す
+　弁護士が在室していないことになっている場合
+　　＊基本的には不在の場合と同様の対応をとるが，予定変更で戻ってきたことにする場合もある
+
+ファイリング
+第１　記録の整理の仕方
+１　新件受任時の事件処理
+（１）　新件を受任したら，文書サーバーの所定位置に新規フォルダを作成する
+　フォルダ名は次の形式による
+　　依頼者名＋西暦下２桁年月日
+　　　例＞山田隆夫さんから２０２５年５月１日に事件依頼を受けた場合、フォルダ名は［山田隆夫250501］となる。
+　同姓同名はABC順にアルファベット記号を付けて区別する。　例＞［山田隆夫A180301］
+　＊古いフォルダには氏名まで記載されていないことがあるので、必要に応じて適宜訂正する
+　　顧問先等で多数の事件を常時依頼されている場合は，略号を当てて，それぞれ個別の上位フォルダを作成する。
+　　　例＞第三銀行（Ｎ３）から２０１８年３月１日に和歌山商事を相手方とする事件を受任した場合
+　　　フォルダ［Ｎ３第三銀行］の中に，［和歌山商事180301］のフォルダを作る（この場合には，相手方名をフォルダ名にするので注意）。
+　＊顧問先略号は他と識別可能なアルファベット２文字で作成するが，不明な場合は協議して統一する。
+
+ （２）　エクセルで「依頼者データ」を開き，事件登録をする。
+　登録するデータ内容は次のとおり。ここで登録したデータは送付書等に自動挿入されるので，間違えないように。
+　事件類別（Ｐractice－民事・訴訟等　Ｂankrupt－破産債務整理等　Ｃliminalー刑事　Ｏthers－その他）
+　ふりがな 氏名 敬称 生年月日（法人の場合は代表者名）
+　依頼者立場 調停（申立人・相手方），訴訟（原告・被告）
+　会社 役職
+　郵便番号 〒マークをつけずに、全角アラビア数字で入力
+　住所_1 住所_2　住所表示が長いときは適宜振り分ける
+　電話番号 ＦＡＸ番号 全角アラビア数字でハイフン付きで入力
+　裁判所 部係名まで入力
+　事件番号 「元号××年（×）第××××号」の形式で入力
+　事件名 担当弁護士または裁判所に確認
+　今回期日 次回期日「元号××年××月××日　午前××時××分　弁論」の形式で入力
+　　「弁論」の部分は，弁論準備，公判，和解，尋問，調停，判決，審尋，審判、検証等の期日種類がある。不明のときは担当弁護士に確認
+　相手方 相手方複数のときは当事者目録筆頭者のみを記載し、あとは「外×名」とする。備考欄に他の相手方の名前を記載
+　相手方立場 依頼者立場と反対の表示
+　相手方代理人氏名，ＦＡＸ
+　担当裁判官　　後に統計データで有用なので，必ず確認してフルネーム入力
+　担当書記官　　姓名記入
+　裁判所ＦＡＸ　確認して間違えないように入力
+　その他の項目　適宜確認
+
+（３）　記録表紙を作成する
+フォルダは厚さの違う２種類を使用（どちらも２穴式）
+事件の大きさにより，記録の量が変わるので，臨機応変に使い分ける
+　厚　部厚い資料のまとめ用
+　薄　その他全般に使用
+資料の整理保管用には、別途パイプファイルを使用する。
+
+（４）　民事事件記録の綴り方　４＋２分類方式とする
+１類　訴状、答弁書、準備書面、証拠説明書，その他裁判所提出の書類で２～４類以外のもの
+２類　甲号証、乙号証，その他証拠（原本とコピーは分別。原本はクリアフォルダに入れて別管理すること！）
+３類　呼出状、期日請書、書面送付書、受領書　等、訴訟の中身に関係のない各種連絡文書類
+　　弁護士作成のメモ、依頼者への連絡文書など、裁判所・相手方には見せない書類
+４類　決定書、判決書、和解調書、送達証明等、裁判所等作成の正本類（一通しかないもの）
+　＊各類の区分には、分界紙を入れる
+　＊記録が１ファイルに収まらなくなってきたら（１）（２）（３４）の３つに分割
+Ａ類　証拠原本類（裁判所に提出したものには付箋で号証番号をつける）
+Ｂ類　委任状、登記簿謄本類（資格証明など）
+　ＡＢ類記録は、穴を開けたり記録本体に綴りこまないように注意して、クリアフォルダまたは封筒にて，上記１－４類記録とは別途管理する
+　写しと原本は厳格に区別し、写しを原本に代えて保管する場合には、原本の有無・所在を確認して付箋を貼る
+　原本への書き込みは厳禁，刑事事件記録等で指紋・印影照合が重要なものは，白手袋をして扱い，袋も個別とする。
+　重要書類については預り証を発行している場合があるので，原本の返還等の場合には預り証等の処理も忘れずに行う
+　Ａ記録とＢ記録の一部は顧客からの預かりものであって，原則として事件終了後完全に返還する
+
+１類記録の並べ方
+訴状（原告）→訴状添付書類（評価証明・委任状）→答弁書（被告）→準備書面（原告・被告）の順に
+表題略号を記載したタブをつけて時系列で綴る
+タブの色は，原告・控訴人を赤、被告・被控訴人を青とする
+　表題略号は次のとおり
+訴状　　　　　　　　　訴状
+答弁書　　　　　　　　答弁
+準備書面１，２　　　　準１，２，・・・
+証拠説明書　　　　　　証説
+証拠申出書　　　　　　証申
+求釈明書　　　　　　　求釈
+文書送付嘱託　　　　　文送
+文書提出命令　　　　　文提
+鑑定嘱託　　　　　　　鑑定
+検証申立　　　　　　　検証
+上申書　　　　　　　　上申
+その他は弁護士に確認して適宜作成
+
+数詞
+１　２　３　４　５　６　７　８　９　１０
+甲　乙　丙　丁　戊　己　庚　辛　壬　癸 ・・・
+コウ オツ ヘイ テイ ボ コ キョウ シン ジン キ・・・
+　＊その他の大規模事件の場合には，裁判所の指示により、アルファベットで分類することがある
+　＊医療事件では，甲Ａ（事実経過）、甲Ｂ（文献等）、甲Ｃ（損害）の中分類をする
+
+３類記録の並べ方
+　日付順を原則とする。プライバシーにかかわる資料は慎重に扱う
+
+４類記録
+　後日のために保管しておくべき重要な書類なので，汚損・紛失がないようにする
+
+保管上の注意
+　原本には書き込み・穴開け・クリップ掛け・ホチキス止めをしないこと。必要な場合に低粘着の付箋を貼ることは可
+　原本のファイリングはクリアファイルかクリアポケットを使う。
+　発送する文書はすべてコピーをとり，左綴じＡ４サイズまたはＡ３サイズて記録につづること
+　ファイルの厚さは一冊５ｃｍ（厚とじファイルは１０ｃｍ）までとし，それを超える場合は適宜分冊するか、パイプ式ファイルに移す
+
+..経理処理規則
+　弁護士報酬等請求権の時効は主観５年、客観１０年
+　現金主義経理を原則とする。
+
+着手金
+　着手金請求権発生日は原則として請求書発行日または委任状作成日とする
+　委任状作成日が不明の場合には，初回相談，受任通知，提訴等のいずれかをもって充てる
+
+報酬金
+　報酬金請求権発生日は顧客の利得が、示談書、差押え等で現実に確定し、顧客に交付する準備が完了した時とする
+　債務者・被告事件の場合には棄却・和解等の確定時に利得があったものと看做す
+　未受領分は売掛として計上し，後日現金受領時に振り替え処理する
+
+裁判所費用
+　印紙代・予納金・保管金は依頼者の負担とし、必要に応じて事前に預り金として受領し、そこから支出する
+　予納郵券は原則として弁護士の負担とし，着手金の規模に比べて高額にならない限り、依頼者負担にはしない
+　預り金がない場合の上記の支出については，弁護士と協議して一般事務費から支出する
+
+経費
+　交通費・通信費・振込手数料等の事務手続費用は原則として弁護士負担とする
+　ただし，遠方の事件や相手方多数などの特殊事例については依頼者との協議により，相当の実費を預かる場合があるので，その場合には別途預り金管理する
+　消費税を明示計上していないときは、内税を算出して必ず計上する
+
+中途解約時の控除・清算基準
+　着手前：原則全額返還、ただし相談時間が１時間を超える分につき１時間あたりタイムチャージ１１，０００円（内税１，０００円）を控除
+　訴状等を裁判所に提出したときより後：６割を控除
+　相手方が応訴後尋問開始前に中断した場合：８割を控除
+　尋問開始または和解協議後：返還なし
+
+法テラス法律援助
+　弁護士事務所所在管轄の大阪に持ち込む（原則）　申込者住所地管轄でもよい（例外）
+　３要件　資力・資産基準　勝訴可能性　援助の趣旨
+　必要資料
+　　住民票（記載省略ないもの、世帯全員）
+　　生活保護受給証明，各種公的年金または手当等の受給証・通知
+　　給与明細　源泉徴収票　確定申告書写し
+　　課税証明書・非課税証明書
+　　その他 （戸籍謄本　不動産登記簿，その他基本書証
+
+..出勤・出張等交通規程
+徒歩・自転車    なし（靴費用補助年１　自転車整備費補助年１
+バイク・自動車  上限燃料負担　往復ｋｍ×１５円／日額　上限日額４２０円
+タイムズ    駅から徒歩１０分以上の目的地　所要時間１時間以内
+電車・バス  通勤：定期額上限月額１００００円　出張：原則自由席利用　時間指定ある場合は指定利用
+飛行機  必要時のみ個別申請
+船  原則不可（離島等例外は事前協議
+
+..OAマニュアル
+shell X:\law\弁護\業務\管理\ＯＡ
+　備品リスト
+　ＱＣ
+
+
+.ミニマムリスト
+shell X:\law\弁護\業務\管理\物品リスト.xlsx
+
+事業＞
+筆記類
+　鉛筆Ｂ
+　色鉛筆１２色
+　マーカー３色
+　シャーペンＢ芯
+　消しゴム
+　筆ペン（太、薄
+　ボールペン（黒、赤
+　サインペン（黒、赤
+　万年筆（パーカー、クロス
+　万年筆インク（ブルー
+　修正テープ５ｍｍ、６ｍｍ
+スタンプ類
+　スタンプ（済、受領日、正副控、配達記録、親展、速達、組印、事務所表示、甲、乙、丙、Ａ、Ｂ、Ｃ
+　朱肉（携帯、備置
+　スタンプ台
+クラフト類
+　タブ（青、赤
+　付箋（通常、クリア
+　仮付け糊
+　液体糊
+　糊はがし
+　ハサミ
+　カッター
+　ホチキス（小、中、大
+　クリップ（小、大
+　クリップケース
+　千枚通し
+　ホチキスリムーバ（小、大
+　セロハンテープ
+　テープ台
+　定規
+　縮尺定規
+　カバーテープ
+　テンプレート
+エチケット類
+　綿棒
+　耳かき（タブ、スパイラル
+　爪切り
+　毛抜き
+　ハンドモップ
+　粘着ロール
+　ティッシュ（箱、携帯
+　フレグランス（４７１１ポーチュガル、ブルガリプールオム
+　ソーイングセット（針、糸、ボタン
+　医療用テープ
+　櫛
+　衣類ブラシ
+　小電動カッター
+　染み抜き
+　靴磨き（黒、茶、クリア
+　扇子
+　傘（携帯、長尺
+備品類
+　ペンケース（４連、箱
+　書類ケース（Ａ４２段、４段、多段
+　鞄（大、小
+　事務用財布
+　ワインディングマシン
+　予備メガネ
+　照明スタンド
+　　マグカップ
+ＯＡ類
+　レコーダー
+　ＰＣ（デスク１、デスク２、ノート）
+　複合機
+　紙折り機
+　サーマルバインダ
+　ハンディスキャナ
+　スマートフォン
+送付類
+　郵券
+　差出表
+自転車類
+　前照灯
+　尾灯
+　インフレータ
+　パンク修理キット
+　工具
+　ワイヤー錠
+　グローブ（夏、冬
+　レーパン
+　裾止め
+　ヘルメット
+　バイザー（クリア、スモーク
+自動車類
+　ドライブレコーダ
+　運転用サングラス
+　バッテリーコード
+　牽引ロープ
+　インバーター
+衣類
+　スーツ（夏３、冬２
+　フォーマル靴（茶、黒
+　ワイシャツ　７
+　ネクタイ　１４
+
+生活＞
+調理
+　なべ１，２
+　まな板
+　包丁（大小
+　ピーラー
+　はし
+　スプーン
+　フォーク
+　ナイフ
+　カップ
+　平皿（大中小
+　深皿（大中小
+　缶切り、栓抜き
+　コルク抜き
+服
+　トランクス　７
+　白Ｔシャツ　７
+　シャツ　７
+　スラックス（白、茶、グレー、黒
+　靴下　７
+　靴（山、平地、近所、スポーツ、自転車
+遊
+　自転車
+
+.Opinion: 51 things not to do if you want to be better off financially
+By Jonathan Clements    Published: June 18, 2016 11:40 a.m. ET
+Sometimes simply saying “no” is the right strategy
+Sindre Lundvold/Barcroft Media
+Today’s financial advice: Just say no.
+You can probably think of instances when an individual ought to ignore one or two of the suggestions below. Still, I’d argue that, if most folks followed these rules, they’d be far better off financially. Want a brighter financial future? Here are 51 things you shouldn’t do:
+
+1. Don’t buy cash-value life insurance.
+2. Don’t envy hedge fund investors.
+3. Don’t write frequent checks against bond funds held in a taxable account.
+4. Don’t carry a credit card balance.
+5. Don’t invest in high-turnover stock funds.
+6. Don’t fund custodial accounts if your family hopes to receive college financial aid.
+7. Don’t trust brokers when their lips are moving.
+8. Don’t keep a heap of money in your checking account.
+9. Don’t assume the premium on your long-term-care insurance is fixed for life.
+10. Don’t forget that a high potential return means high risk.
+11. Don’t buy a home if you think you’ll move in the next five years.
+12. Don’t invest 100% in stocks — or 100% in bonds.
+13. Don’t die without a will.
+14. Don’t buy trip-cancellation insurance.
+15. Don’t retire with debt.
+16. Don’t buy initial public stock offerings.
+17. Don’t throw away the advantages of index funds by actively trading them.
+18. Don’t claim Social Security at age 62.
+19. Don’t buy a tax-deferred annuity in an individual retirement account.
+20. Don’t apply for credit too often.
+21. Don’t use your taxable account to buy high-yield junk bonds or real estate investment trusts (REITs).
+22. Don’t opt for low insurance deductibles.
+23. Don’t fully fund your 401(k) if you smoke, drink heavily and never exercise.
+24. Don’t buy any fund with annual expenses above 0.35%.
+25. Don’t instinctively hang on to losing stocks.
+26. Don’t be surprised if every solution offered by an insurance salesman involves insurance.
+27. Don’t assume you, or anybody else, are smarter than the market.
+28. Don’t get your stock picks from your brother-in-law, your spam folder or the television.
+29. Don’t purchase life insurance if you don’t have financial dependents.
+30. Don’t pay a 6% real estate commission.
+31. Don’t opt for the extended warranty.
+32. Don’t invest heavily in your employer’s stock.
+33. Don’t purchase a house that’s bigger than you really need.
+34. Don’t day trade.
+35. Don’t have children if you hope to retire early.
+36. Don’t read anything into short-term market movements.
+37. Don’t buy investments without first settling on your financial goals.
+38. Don’t use more than 10% of the credit limit on your credit cards.
+39. Don’t buy an individual bond without figuring out what markup you’re paying.
+40. Don’t forget about inflation.
+41. Don’t buy an investment unless you’d be happy to hold it for 10 years.
+42. Don’t assume a commission-free stock trade is cost-free.
+43. Don’t buy based on past performance and expect it to persist.
+44. Don’t leave your ex-spouse listed as your 401(k) plan’s beneficiary.
+45. Don’t take out a large mortgage just for the tax deduction.
+46. Don’t keep money in the stock market that you’ll need to spend within five years.
+47. Don’t buy variable annuities.
+48. Don’t assume a high yield means a high return.
+49. Don’t pay bills late, especially loans and credit card payments.
+50. Don’t expect stocks to earn 10% a year, even over the long run.
+51. Don’t lend money to family members if you’ll need it back.
+Jonathan Clements is the former personal-finance columnist of The Wall Street Journal and author of the “Jonathan Clements Money Guide 2016.” Follow him on Twitter and on Facebook.
+More from MarketWatch
+
+
+.English
+Our office does not actively seek clients through the web or mass media.
+When handling new client cases, we prioritize meeting with the client in person.
+As a result, our responses to inquiries from new clients via phone or email are kept to a minimum.
+If you are interested in our services, we kindly ask that you schedule an appointment.
+While we do not decline interviews simply because someone is a new client, please note that as a small office, we prioritize the needs of our existing clients.
+Thank you for your understanding. Best regards.
+
+
+Hello! Nice to meet you.
+I’m Katsura Yamanouchi, a Japanese lawyer actively working in the following fields:
+
+- Medical malpractice
+- Bankruptcy and debt consolidation
+- Consumer protection and damages
+- Inheritance and wills
+- Adult guardianship
+- Violence intervention measures
+
+In addition, I focus on areas such as condominium management, business succession, real estate, lease management, and more.
+My goal is to provide you with the best advice tailored to your needs and interests.
+
+If you’d like to read my blog, please click the “K.Y Blog Days” link at the top of this page.
+
+Notice: Unfortunately🙂, I can only assist clients who can communicate in Japanese. I sincerely apologize for any inconvenience this may cause.
+
+
+
+
+.優先順位リスト
+期限があること
+いやなこと
+金になること
+古いこと
+私事
+他人事
+
+.＝＝＝＝＝事件処理編（総論）＝＝＝＝＝＝
+..相談プロトコル
+入り口別＞
+
+弁護士会
+　ひまわりダイヤル（事業者
+　ＬＡＣ（交通、一般
+　裁判所（後見　刑事
+　その他（特別代理
+
+法テラス
+　申請（生活保護、就労者、その他
+　報告（着手、変更、中間、終了
+
+医療研
+　相手病院チェック
+　AIによる事案分析と検討
+　裁判例（データベース、書誌データ、判例タイムズ、一般検索
+　症例調査（メディカルオンライン
+　X:\law\医療資料\z業務\受任前連絡事項セット.txt
+
+他弁護士紹介
+　河内
+　その他
+
+
+..受任手続総論
+新規の場合　情報カード作成と個人情報に関する説明
+依頼者フォルダ作成、記録開始
+事務処理コードの書式　フルネーム＋25010101　・・・日付の後に当日の連番をつける
+依頼者名簿に登載
+電話アプリに番号を登録
+
+事件の見通しと費用の説明
+　時間がかかっても，はじめから終わりまで一気に説明してしまう
+　中途半端に途中まで説明しただけでは依頼者は極度の不安に陥りがち
+　説明内容は記録して後日再現できるように
+　依頼者の主張・意見に惑わされずに，事実と証拠から主張を組み立てる
+　理解力の劣る場合や判断能力に不安のある依頼者等への説明は必ず録音・録画をとっておく
+　可能な限り相手の目の前で成果を出すことが信頼へつながる
+　受任の範囲を明らかにする。将来の展開でかかる追加費用の見込みも説明する
+　提訴の前には関係条文，判例を可能な限り全部検索して，依頼者へ出来る限り全体像・見通しを説明する
+
+依頼者の正当な利益
+　何事もすべて依頼者の同意・承認に基づくこと（ベストインタレストでも同意・承認されるとは限らないが、あくまでも依頼者を主役とする）
+　法律違反はもちろんのこと，道徳・倫理違反の指導もすべきでない
+　依頼者から整理を一任された場合でも，相手方の信用を利用して虚偽の事実を告げて弁済猶予を求めたりしない
+　売主代理人として立ち会う場合は必要書類や現況調査を怠らない
+
+交渉一般
+　原理原則を最優先させること（安易な妥協はしない
+　関係者との連絡（郵便，電話，ファックス，会話）はきちんと記録を残す
+　もめそうな相手との会話は必ず録音する
+　依頼者の意思確認は幾重にも慎重に行う
+　結論を急ぐときも急がないときも慎重に判断する
+　弁護士のイメージを良くも悪くも利用せよ。時には役者のように演じることも必要
+　依頼者との信頼関係を重視する
+　相手を自分のペースに乗せる
+　相手に恩を売っても，決して借りを作らない
+　安易な信用は禁物（占有移転禁止仮処分は有効
+　仮処分の空振りをおそれない（何度でも執拗に
+　仮差押・仮処分は原則どおりに粛々と
+　封印破棄しないよう気をつける
+
+示談・和解
+　できないことは当初から明確にしておく
+　和解期日に相手方弁護士に対し保証金還付金をもってする和解金の全額一括支払いを口頭で約束したにも関わらず，還付金を依頼者に全額交付したため一部しか支払いがなされない事態を招くことがあるので，注意（依頼者であっても過度の信頼は不可）
+　先に自分の結論を出しすぎると損
+　和解の内容は細部まで主導権を握る（相手まかせはよくない）
+　和解時の当事者の表示には気を配る（送達不能や受領拒否につながる
+　和解条項はきちんと吟味
+　当事者複数の訴訟における一部当事者間の和解は注意する
+
+訴訟
+　請求の趣旨の再検討（執行がスムーズにできるのかどうか
+　　特に登記請求は司法書士・管轄法務局の事前承認を得ておく
+　請求債権目録のチェック
+　特定が重要（期間、時期等）
+　メインの争点との思い込みに引きずられないように、最初は広く浅く主張反論しておく
+　同姓同名の他人でないかどうかを確認（住民票以外の情報との照合を要する）
+　訴訟費用と控訴費用を説明し，どこまでいくか事前に打ち合わせておく
+　文書は１Ｗ前までに必ず提出する
+　些細な反対証拠にも反証を忘れない（なめていると痛いことになる
+　出廷に当たっての心構え（記録をよく読む
+　わからないことは恥を承知で裁判所に聞く
+　依頼者のいうことを鵜呑みにしない
+　裁判官の常識が世間の常識と同一であると限らない
+
+証人尋問
+　速記・録音が取りやすいように、ゆっくり大きな声で尋問する
+　何を立証するかを常に考えながら尋問すること
+　固有名詞のメモは，事前に書記官に提出しておく
+　時間厳守のためには十分な準備が必要
+　不利供述は時間を越えてでも無効化すること
+　反復質問は裁判官へ印象づけなければならない場面に限ること
+　答と質問が重ならないように注意する（録音できない
+
+トラブル対応
+　是々非々の態度で臨み，辞任を躊躇しない
+　途中辞任の場合には懲戒請求に備えて、記録を整備し、辞任経過を明らかにして，仕事内容を弁護士会に開示できるようにしておく
+　不利事実・不利益文書の秘匿をしない
+
+他の弁護士の受任事件への対応
+　　弁護士は相互に名誉と信義を重んじ、みだりにほかの弁護士を誹謗中傷してはならない
+　　弁護士は正当な職務慣行または信義に反して、ほかの弁護士を不利益に陥れてはならない
+　相手方弁護士の情報・意見を依頼者に告知する限度については，慎重な判断を要する
+　本人同士が直接交渉する場合の助言は，弁護士がつくかどうかで変化させる
+　　＊本人当事者の理解力には限界があるので，理屈はかえって逆効果
+
+外部書類作成
+　捨て印の押捺はしないのを原則とし，修正ですむ部分は都度対応する
+　 修正で済むときでも，可能な限り作り直しを求める
+　 作り直しの書類にも代筆ではなく本人の自署を求める
+
+その他
+　更新料請求条件の二面性（地価等を下手に操作しない
+　正本・謄本確認の重要性
+　請求当事者の特定、時効の期限には細心の注意を払う（請負代金、不法行為等
+　徒労はするな
+　二度手間を惜しめ
+
+受任手続各論
+破産
+　依頼者への信用はほどほどに
+　監禁被害に注意
+　破産者の財産保全
+　財産隠しの依頼は断る
+
+契約書
+　契約書の作成はまず原理原則・典型契約を考える
+　依頼者の意見や相手方の作成した文言・発想に引きずられない
+　　ときとして違法不適法になる条項ができてしまう
+
+刑事事件
+　勇み足は避けよう
+　記録を忘れるな
+　身柄手続の説明は絶対に間違えてはいけない
+　被告人に見せる記録は厳選すべし
+　保釈の説明は慎重に
+　国選弁護の受任上の注意（期間、場所
+　見通しの説明は厳しく
+
+強制執行
+　間違った当事者（失敗のフォローはきちんと
+　本差押のとき再度点検を
+　賃借人所有の動産に対する先取特権の行使も忘れずに
+　執行は可及的秘密裏に
+
+家事事件
+　着手・報酬はきちんと決める
+　税法に気をつける
+　依頼者にはすべての事情を明かしてもらう
+　相続放棄の熟慮期間の延長を過信しない
+　気まぐれな依頼者に気をつける
+　不倫の後始末には相手方配偶者も巻き込む
+
+サラ金・ヤミ金
+　業者の説得・警察との協力
+　１１０番通報、告訴、仮処分、損害賠償・債務不存在確認
+
+民事介入暴力（慎重の上にも慎重に
+　警察との連携・物理的援助をうける
+　相手の人物調査
+
+
+..辞任プロトコル
+事務所
+　顧客データ整理（記録、名簿、移転）
+　預り資料の原本返却
+
+弁護士会
+　辞任通知
+　負担金
+
+法テラス
+　辞任通知
+　清算処理
+
+ＬＡＣ
+　辞任通知
+
+相手方
+　辞任通知（依頼者の指示による
+
+
+..メール相談
+
+
+
+.－－－－－証拠保全－－－－－
+X:\law\弁護\業務\証拠収集実務.txt
+
+.－－－－－民事保全・担保取消－－－－－
+X:\law\民事法\7執行・保全\保全ノート.txt
+
+.－－－－－競売－－－－－
+X:\law\民事法\7執行・保全\執行ノート.txt
+
+.■親族
+..離婚訴訟進行　大阪家庭裁判所家事第４部人事訴訟係
+1　離婚訴訟の進行について
+原告・被告訴訟代理人 各位
+ 当係では，離婚訴訟を適正・迅速に進行させるため，当事者双方訴訟代理人に対し，以下の事項について御協力をお願いしております。
+１ 争点整理
+ （１） 離婚請求
+（原告） 離婚原因の根拠条文を摘示し，別居，不貞行為，暴力暴言等の具体的事実やその時期を明確に主張してください。
+（被告） 離婚請求自体を争うか否かを明らかにし，請求原因に対する認否反論を早期に行ってください。また，反訴（予備的反訴を含む）提起をする場合は早期に提起してください。
+ （２） 親権者指定
+ （双方）ア ふさわしいと考える親権者（反対当事者を含みます。），現在の監護状況等を具体的に主張し，争いがある場合は，親権陳述書を提出してください。※
+ イ １５歳以上の子がいるときは，子の陳述書を提出してください。
+ （３） 養育費
+ （双方） 現在の収入を速やかに主張立証してください。
+ （４） 財産分与
+ （双方）ア 基準日を早期に明確にしてください。
+イ 財産目録は当係所定の書式を使用してください。※
+ウ 自己の財産については，原則，任意開示してください。相手方から開示されないものについては，嘱託先と嘱託事項を具体的に特定の上，調査嘱託申立てを検討してください。※
+
+２ 書面の提出方法
+ （１） 判読性の確保のため，特に財産目録や書証については，クリーンコピーの提出または高画質モードでのファックス送信に御協力ください。
+ （２） 財産目録は準備書面の別紙として添付してください。
+ （３） 親権陳述書は活字で印刷したものを書証として提出してください。
+（４） 書証を提出する際は，必ず証拠説明書も提出してください。
+
+３ 期日で当事者双方が相対することに支障がある場合
+ （１） 尋問期日
+ 遮へい措置を希望する場合は，本人を証拠申出する際に申し出てください。
+ （２） 和解期日
+ 和解室別室の確保と出頭時間の調整のため，必ず事前に申し出てください。
+※ 書式は当庁のホームページに掲載しています。
+
+
+..訴状チェック
+1　訴状チェック表（離婚訴訟用）代理人用
+離婚訴訟を提起される方は，訴状提出前にこのチェック表を利用してください。
+◎ 訴状の記載について
+ ○ 当事者の表示
+□ 当事者の本籍地・氏名の記載が戸籍と一致しているか
+□ 当事者の住所に間違いはないか，管轄はあるか
+ ○ 請求の趣旨
+ □ 親権者指定の申立てがあるか
+□ 慰謝料請求，財産分与としての金銭請求は，分けて記載されているか
+□ 遅延損害金の起算日は適正か，不相当な仮執行宣言を求めていないか
+ ○ 請求の原因
+ □ 根拠条文の記載があるか（民法７７０条１項の何号に該当するのか）
+ □ 別居開始日の記載があるか
+ □ 親権者指定についての記載があるか
+ □ 損害賠償請求についての主張は明確か（離婚に伴う慰謝料か，個別の不法行為に基づく損害賠償か）
+ □ 調停前置についての記載があるか（家裁名，事件番号，終了日等）
+ □ （渉外）国際裁判管轄及び準拠法についての記載があるか
+ ○ 別紙
+ □ （年金分割）年金分割のための情報通知書の写しは添付されているか
+ □ （財産分与）物件目録は添付されているか，記載に間違いはないか
+
+◎ 書証
+ □ （養育費）源泉徴収票，課税証明書など最新の収入資料はあるか
+ □ （財産分与）不動産登記事項証明書，評価証明書等財産の資料はあるか
+ □ （公示送達事案）原告の陳述書，１５歳以上の子の親権陳述書はあるか
+
+2 □ 証拠説明書はあるか
+
+◎ 添付書類
+ □ 委任状は訴訟用のものか
+ □ 戸籍記載事項証明書の原本は３か月以内のものか
+ □ （年金分割）年金分割のための情報通知書の原本は，１年以内かつ平成２７年１０月以降に提供を受けたものか
+ □ 大阪家裁以外で調停をした場合，調停終了証明書はあるか
+□ （訴訟救助）生活保護受給証明書や課税証明書等，収入の疎明資料はあるか（法テラスの扶助決定のみでは不十分）
+
+◎ 訴え提起手数料
+ ○ 離婚請求と損害賠償請求の併合請求の訴額は多額の一方による
+ ○ 附帯処分
+□ （養育費）１２００円に子の人数を乗じた額
+□ （財産分与）請求金額に関係なく一律１２００円
+
+◎ 郵便切手
+□ ５０３５円（内訳：５００円と１００円は各７枚，８２円，５２円，２０円，１０円，２円，１円は各５枚）
+※ 離婚に伴う慰謝料請求及び財産分与の申立てについて
+ いずれも，離婚が成立したとき，すなわち離婚認容判決確定から債権が発生するものと解されています。したがって，離婚に伴う慰謝料請求及び財産分与の申
+立てについては，附帯請求の起算日を訴状送達の日の翌日としたり，仮執行宣言を求めたりすることは相当ではありません。
+※ 準拠法が外国法となる場合
+ 参考資料として当該外国法の条文（和訳も）を添付して下さい。
+
+
+..公示送達を求める場合について
+被告が行方不明であるとして公示送達を求める場合は，以下の点に留意して下さい。
+◎ 訴状の記載
+□ 被告の表示欄に最後の住所の記載があるか
+◎ 公示送達申立書
+ □ 就業場所も不明なことが記載されているか
+◎ 添付書類等
+□ 戸籍謄本→被告とその親きょうだいが生まれてから現在に至るまでの戸籍と附票があるか
+□ 親族照会：被告の行方や連絡先等について，誰に対して照会を行ったか
+→□親 □きょうだい □前配偶者 □前配偶者との子
+ →□親族からの返信に使われた封筒はついているか
+□ 調査報告書
+ →□最後の住所について直近に調査されているか
+ →□被告の就業先について調査したことが記載されているか
+
+..住所等の秘匿について 大阪家庭裁判所家事第４部 人事訴訟係
+人事訴訟は，家事手続と異なり，訴訟記録は閲覧謄写することができるのが原則です（民訴９１条）。単に相手方に住所等を知られたくないというだけでは秘匿は認められませんし，仮に裁判所が秘匿を認めたとしても，それは，当事者に対して，住所等，本来記載すべき情報を訴状等に記載しないことを許容し，裁判所が作成する文書に秘匿情報を記載しない扱いをすることであり，既に記録にあらわれた秘匿情報を裁判所が自らマスキングすることはできません。したがって，秘匿を希望する当事者が書類等を提出するときは，提出書類等に秘匿情報（住所やマイナンバー等）があらわれないように当事者自身が十分に注意し，確認してください。
+特に委任状，書証（診断書，源泉徴収票，未成年子の学校関係資料など），訴訟救助の疎明資料，年金分割のための情報通知書等には，住所等が記載されていることが多いことから事前に十分な確認が必要です。
+ なお，訴えの提起に当たり住所等の秘匿を希望するときは，住所の表示は「大阪府（以下秘匿）」とし，秘匿を希望する旨及びその必要性を具体的に記載した文書を提出してください。
+
+..保護命令申立書の使い方
+１　本書式は，申立人に代理人弁護士が就き，代理人弁護士が申立てをする場合の書式となっております。申立人本人が申立てをする場合の書式は，次のとおり大阪地方裁判所第１民事部のホームページからダウンロードできますので，それをご利用願います。http://www.courts.go.jp/osaka/vcms_lf/05.hogomeirei.pdf
+２　本書式の，ハイライト表示されている部分は，文字やチェックを入れることができるようになっておりますので，申立ての内容にそって，必要な部分を入力してください。入力する文字数には制限がありますので，申立書はなるべく簡潔に事実を記載するようにお願いします。記載しきれない場合は，適宜補充用紙に記載し，それを申立書に引用していただいて構いません。
+３　利用するパソコンの環境によっては，ハイライト部分の表示が見えにくい場合もあります。その場合，アドビリーダーの「編集」→「環境設定」を開き，分類（G）から「フォーム」を選択して，「フィールドのハイライトの表示」の色を見えやすい色に変更してください。
+４　利用するパソコンのOSがウインドウズVISTA以前である場合，あるいはアドビリーダーが最新のヴァージョンに更新されていない場合は，フォームに入力したデータが保存されない場合があります。その場合，データの保存はできませんので，入力したデータを印刷しておくなどしておいてください。
+５　本書式を利用して，申立てを行う場合は，申立書一式（3頁以降）をそのまま印刷して，提出してください。申立てに関わらない部分についても省略しないようにご注意願います。
+６　本書式について，要望や意見がございましても，個別には対応しかねます。当部と弁護士会との協議会等の機会を通じて，ご要望等は承りますので，ご協力願います。
+大阪地方裁判所第１民事部
+
+..「子どもの手続代理人の役割と同制度の利用が有用な事案の類型」について
+２０１５年（平成２７年）９月４日
+会 員 各 位大阪弁護士会会 長 松 葉 知 幸（お知らせ）
+平素は当会の諸活動にご協力賜り、厚く御礼申しあげます。
+このたび、日本弁護士連合会より、２０１３年１月から施行された家事事件手続法により新しく導入された「子どもの手続代理人制度」について、２０１４年１０月から行われてきた民事司法に関する最高裁判所との協議の結果に基づき、「子どもの手続代理人の役割と同制度の利用が有用な事案の類型」（以下、「有用な類型」という。）をとりまとめたとの案内がありましたので、お知らせいたします。
+会員各位におかれましては、この「有用な類型」をよくお読みいただき、例えば家事事件において親の代理人をしている際など、子どもの手続代理人の活用を積極的にご検討いただきますようお願いいたします。なお、日弁連においては、子どもの手続代理人の活動をアンケートにより集約しており、アンケート書式が日弁連会員ページ（https://www.nichibenren.jp/opencms/opencms/shoshiki_manual/kaji/kodomo_dairinin.html）に掲載されておりますので、こちらもぜひご協力くださいますようお願いいたします。
+【担当事務局】大阪弁護士会委員会部司法課（吉村）TEL：06-6364-1681／FAX：06-6364-7477　E-mail：m-yoshimura@osakaben.or.jp
+
+
+.■相続・登記
+相続関連事件はかならず相続関係を確認してから動くこと
+
+兄弟姉妹、養子、養親、代襲相続、未入籍など、見落としやすいので、ダブルチェック・トリプルチェックすること
+
+相続登記申請添付の印鑑証明書は３ヶ月以内でなくてもよいが（＊１），銀行等はかならず３ヶ月以内の原本が必要。
+    （＊１）相続でない場合には３か月
+
+標準セット（原戸籍、除籍、戸籍、附票）
+　７５０ｘ２＋４５０＋３００＝２２５０
+追加パターン
+　７５０、４５０
+返却パターン
+　３００
+
+１ｐ２００円
+額面＞50円、100円、150円、200円、250円、300円、350円、400円、450円、500円、750円、1000円
+
+１役所あたり実費＋事務手数料２０００円
+　２２５０＋９８０＝３２３０　事務手数料
+
+
+..「相続放棄・限定承認の申述の有無等についての照会」に関する取扱いの一部変更について
+２０１５年（平成２７年）１０月２日会 員 各 位大 阪 弁 護 士 会会 長 松 葉 知 幸
+平素は、当会の諸活動にご理解とご協力を賜り、誠にありがとうございます。
+さて，大阪家庭裁判所から，「相続放棄・限定承認の申述の有無等についての照会」に関する取扱いについて，大阪家庭裁判所本庁では平成２７年９月２４日以降，同堺支部及び同岸和田支部では同年１１月２４日以降，別紙のとおり一部変更することとなりましたとの連絡を受けましたので，お知らせします。なお，別添の書式については、大阪家庭裁判所のウェブサイトに掲載されています。
+
+＜相続放棄申述受理証明書の申請について（利害関係人申請用）＞
+第１ 申請先の家庭裁判所について
+　相続放棄申述は，被相続人（亡くなられた方）の最後の住所地（住民票の写し又は戸籍の附票等で確認してください。）を管轄区域とする家庭裁判所で取り扱われます。大阪家庭裁判所本庁及び各支部の管轄区域は次のとおりです。
+大阪家庭裁判所（本庁）
+ア 所在地，担当部署等
+〒５４０－０００８　大阪市中央区大手前４－１－１３
+家事訟廷記録係（０６－６９４３－５７５９）
+イ 管轄区域
+大阪市，池田市，箕面市，豊能郡（豊能町，能勢町），豊中市，吹田市，摂津市，茨木市，高槻市，三島郡島本町，東大阪市，八尾市，枚方市，守口市，寝屋川市，大東市，門真市，四條畷市，交野市
+大阪家庭裁判所堺支部
+ア 所在地，担当部署等
+〒５９０－００７８　堺市堺区南瓦町２－２８
+訟廷記録係（０７２－２２３－８６３４）
+イ 管轄区域
+堺市，高石市，大阪狭山市，富田林市，河内長野市，南河内郡（太子町，河南町，千早赤阪村），羽曳野市，松原市，柏原市及び藤井寺市
+大阪家庭裁判所岸和田支部
+ア 所在地，担当部署等
+〒５９６－００４２　岸和田市加守町４－２７－２
+家事書記官室（０７２－４４１－６８０３）
+イ 管轄区域
+岸和田市，泉大津市，貝塚市，和泉市，泉北郡忠岡町，泉佐野市，泉南市，阪南市及び泉南郡（熊取町，田尻町，岬町）
+
+第２ 相続人からの申請
+下記の必要書類を同封の上，申請先の裁判所まで郵送してください。
+１ 申請書
+「相続放棄申述受理証明申請書（利害関係人用）」に必要事項を記入し，申請者の印（認め印可，スタンプ印不可）を押印してください。
+※ 事件番号・受理年月日が不明の場合は，証明書の申請の前に，「相続放棄・限定承認の申述の有無についての照会」を行ってください。
+２ 身分証明書（運転免許証，健康保険証等）のコピー
+３ 利害関係疎明資料（いずれもコピーで可，原本の添付不要）
+ 一般的には以下の書類となりますが，相続関係により異なりますので，詳細につきましては,事前に申請先の裁判所までお電話にてお問い合わせください。
+ ① 被相続人の死亡の記載のある戸籍(除籍)謄本
+ ② 申請者の戸籍謄本
+４ 手数料
+ 申述人 1 人の証明書１通につき，１５０円分の収入印紙
+５ 返送用封筒（住所・宛名を記載したもの）
+６ 返送用郵便切手
+普通郵便の場合で受理証明書４通まで８２円分，５通以上９２円分
+ 【注意】
+ すでに相続放棄済みの方に対しては，同じ被相続人について，相続放棄した他の親族の方の相続放棄申述受理証明書を発行することは原則としてできませんので，御了承ください。
+※ 例えば，被相続人の子３人の相続放棄申述が受理された場合において，相続放棄済の１人の方から相続放棄をした他の２人分の受理証明書を一括して交付申請することは原則としてできません（それぞれ，御自身が御自身の分の証明書を交付申請いただく必要があります。）。
+これは，相続放棄をした方は，その相続については，初めから相続人とならなかったものとみなされ（民法９３９条），相続人としての利害関係が認められなくなるからです。
+※ ただし，相続関係以外の利害関係がある場合は発行することができる場合もあります。
+
+第３ 債権者からの申請
+下記の必要書類を同封の上，申請先の裁判所まで郵送してください。
+１ 申請書
+「相続放棄申述受理証明申請書（利害関係人用）」に必要事項を記入し，申請者の印（認め印可，スタンプ印不可）を押印してください。
+ただし，法人の場合は，会社代表者の職印を押印してください。なお，支配人登記がされている場合は，支配人からの申請も可能です（支店長は不可）。
+※ 事件番号・受理年月日が不明の場合は，証明書の申請の前に，「相続放棄・限定承認の申述の有無についての照会」を行ってください。
+２ 資格証明書（法人の場合）
+ 原本が必要です。なお，資格証明書類に関しては原本還付を行っておりませんのでご了承ください。
+※ 債権回収会社からの申請の場合は，債権回収に関する委託証明書の原本も必要です。
+※ 契約時から法人の合併や商号変更等がされている場合や債権譲渡等により債権者が変更している場合はそれを証する書面（法人の登記事項証明書や債権譲渡通知書等）のコピーも必要となります。
+３ 身分証明書（運転免許証，健康保険証等）のコピー（個人の場合）
+４ 利害関係疎明資料（いずれもコピーで可，原本の添付不要）
+ 一般的には以下の書類となりますが，事例により異なりますので，詳細につきましては,事前に申請先の裁判所までお電話にてお問い合わせください。
+ (1) 被相続人の死亡の記載のある戸籍(除籍)謄本
+ (2) 債権者であることを証する資料（契約書等）
+ (3) 被相続人の住民票（除票），戸籍附票，（契約時添付の）印鑑登録証明書等
+５ 手数料
+ 申述人 1 人の証明書１通につき，１５０円分の収入印紙
+６ 返送用封筒（住所・宛名を記載したもの）
+７ 返送用郵便切手
+普通郵便の場合で受理証明書４通まで８２円分，５通以上９２円分
+
+.■公証役場実務
+人定（氏名・生年月日）
+公正証書の内容
+財産処理の方法
+財産目録確認
+財産処分権の説明
+保管期間（遺言１１０歳まで）
+評価証明
+戸籍謄本
+登記簿謄本
+執行の説明　委任状、死亡証明、公正証書
+保管期間20年
+本人通知（公証規則13条の2）は実務慣行上行われていない
+
+
+.■労災不服審査
+申請権者
+　被災者本人または遺族
+
+監督署　不支給　＞　60日以内　都道府県労働者災害補償保険審査官に対する審査請求　＞
+　　不支給　＞　60日以内　労働保険審査会に対する再審査請求
+　不支給　＞　6か月以内　労働保険審査会　　＞地方裁判所　処分取消請求訴訟
+    処分を知った日(通常は書類が郵送されるので、それを受領した日)が起算日
+
+
+.■行政不服審査
+
+
+.■小額事件受任に係る補助金制度について
+基準＞
+　着手金８％　報酬１６％
+
+受領した分と５万円の差額のうち３万を補助
+　例１　１０万もらうとき
+　　差額は５万だが、３万の補助しか出ないので、顧客は実質７万の支払いで、弁護士は１０万の報酬になる。
+　例２　２万もらうとき
+    差額は３万、３万の補助がでるので、顧客は２万でいいが、弁護士には５万の報酬になる。
+　例３　５万もらうとき
+    差額がないので、補助はない。顧客は実質５万の支払い
+
+
+.＝＝＝＝＝事件処理編（各論）＝＝＝＝＝＝
+http://www.courts.go.jp/osaka/saiban　書式関連
+
+
+..Mints
+ファイルのアップロード（種別等）
+
+⚫「主張」「証拠」「証拠説明書」「関連事件の申立て」「その他」
+• アップロードされたファイルは、裁判所において印刷した上で訴訟記録と取り扱われます
+• A4又はA3のPDFファイルをアップロードすることができます。※パスワード付きのファイルはアップロードできません。
+• 印刷時（訴訟記録になるもの）は、原則としてグレースケールとなります。カラー部分がある場合、裁判所からカラー印刷の写しの提出をお願いすることがあります。
+• 民訴規則3条1項各号に定める書面（訴状、反訴状、訴え
+の取下書、資格証明書、訴訟委任状等）のファイルが
+アップロードされたとしても、裁判所に対する提出と扱
+われません。別途、持参又は郵送による書面の提出が必
+要です。
+• アップロードするファイルのプロパティや個人情報を削
+除してください。
+操作マニュアルを参照してください
+。
+⚫「記録外」
+• アップロードされたファイルは、訴訟記録となりません
+。
+• ファイルの種類がWord（拡張子は「.docx」のみ）、
+Excel（拡張子は「.xlsx」のみ）、JPEG、PNG、MP3、
+MP4、PowerPoint（拡張子は「.pptx」のみ）又はPDF
+であるファイルのみアップロードすることができます。
+ファイルの用紙サイズに制限はありません。
+
+＜改善要求
+もとがデジタルデータの場合、紙への出力は情報劣化を伴うので、デジタルデータを原本とする提出方法を認めてほしい
+グレースケールの階層を規定してほしい
+色が争点になる場合は、Fair and accurate　の観点から
+　カラーチャートの添付を原則とすること
+　モニターのキャリブレーションを実施するとともに、印刷ＣＭＹＫとモニターＲＧＢの違いについて認識をしてほしい
+　光源、ホワイトバランスによる一般的な変化を説明不要程度に理解しておいてほしい
+　画像処理の一般的な知見を理解しておいてほしい
+
+
+
+
+.交通事故
+審理モデル
+【序論】
+　　交通事故事件の中で，比較的争点整理段階での審理が定型化しやすいと思われる次のモデルを想定し，３ないし４回程度の期日（第１回口頭弁論期日＋争点整理２ないし３期日程度）で進行確認（和解案提示か立証計画か）ができることを目標に，各段階における主張の内容，提出すべき書証の内容を整理するとともに，主張立証に当たっての留意点をお示しすることにより，審理の迅速化に資する目的で作成したものです。
+　１　人損事件のうち，事故態様＋後遺障害認定（１２級，１４級程度）があり，等級該当性自体は大きく争っていない事案（審理モデル（１）人損事件編）
+　２　物損事件のうち，事故態様＋車両損害（修理費又は車両時価額＋レッカー代＋代車費用）の事案（審理モデル（２）物損事件編）
+
+..審理モデル（１）　人損事件編（争点整理終了までの審理の流れの概要）
+１　第１回口頭弁論期日
+　①　原告　　□　訴状陳述
+　　　　　　　□　書証提出
+　　★　類型的に想定される主張立証の内容及び留意事項等（別紙１－１）
+☆　事故態様に関して争点化されることが予想され（事前交渉段階で既に争点となっていた等），刑事記録が存在することが明らかな場合には，訴状提出と同時に刑事記録の送付嘱託の申出を行うことも検討する。
+②　被告　　□　答弁書陳述（又は陳述擬制）
+　★　類型的に想定される主張立証の内容及び留意事項等（別紙１－２）
+☆  　被告による医療記録・刑事記録の送付嘱託の申出は，答弁書提出と同時又は遅くとも第１回口頭弁論期日までに行う。
+　③　裁判所　□　送付嘱託の採用
+　　☆　答弁書提出と同時に送付嘱託の申出があった場合，求意見の上，原則として第１回口頭弁論期日前に採用決定をする。
+２　争点整理（第１回）
+　①　被告　　□　実質的な認否及び主張
+□　請求原因に対する認否
+□　医療記録を必要としない事項の主張（基礎収入・既払金等）
+□　事故態様に関する主張
+　　　　　　　□　書証提出
+　　★　類型的に想定される主張立証の内容及び留意事項等（別紙１－３）
+　②　裁判所　□　嘱託文書の提示
+３　争点整理（第２回）
+　①　被告　　□　医療記録に基づく主張（診療経過に基づく主張）
+　　　　　　□　嘱託文書等の書証提出
+　　★　類型的に想定される主張立証の内容及び留意事項等（別紙１－４）
+　②　原告　　□　実質的な認否及び主張に対する反論（事故態様・基礎収入等）
+　　　　　　　□　補充書証提出
+４　争点整理（第３回）
+　①　原告　　□　嘱託文書に基づく主張に対する反論
+　　　　　　　□　補充書証提出
+　②　裁判所　□　進行確認（和解案提示・立証計画等）
+
+..審理モデル（２）　物損事件編（争点整理終了までの審理の流れの概要）
+１　第１回口頭弁論期日
+　①　原告　　□　訴状陳述
+　　　　　　　□　書証提出
+　★　類型的に想定される主張立証の内容及び留意事項等（別紙２－１）
+　②　被告　　□　答弁書陳述（又は陳述擬制）
+　　　★　類型的に想定される主張立証の内容及び留意事項等（別紙２－２）
+　　　☆　実況見分調書・物件事故報告書等の送付嘱託が必要な場合は，答弁書提出と同時又は遅くとも第１回弁論期日までに行う。
+　③　裁判所　□　送付嘱託の採用決定
+　　　☆　答弁書提出と同時に送付嘱託の申出があった場合，求意見の上，原則として第１回口頭弁論期日前に採用決定を行う。
+２　第１回争点整理
+　①　被告　　□　実質的な認否及び主張
+□　請求原因に対する認否
+□　物損額に関する認否及び積極的主張
+□　事故態様に関する主張
+　　　　　　　□　書証提出
+　　★　類型的に想定される主張立証の内容及び留意事項等（別紙２－３）
+　②　裁判所　□　嘱託文書の提示
+３　第２回争点整理
+　①　原告　　□　実質的な認否及び主張に対する反論
+　　　　　　　□　補充書証提出
+　②　裁判所　□　進行確認（和解案提示，立証計画）
+
+
+..送付嘱託表示例
+（別紙）１
+　　　　　　　　　　　　　文　書　の　表　示
+　下記患者に関する診療に際して作成されたすべての診療科のカルテ，看護記録，各種検査記録，その他一切の書類（但し，レントゲン，ＭＲＩ等の画像記録は除く）。
+期間は平成○○年○○月○○日（本件交通事故日）から現在までのもの
+　　　　　　　　　　　　　　　　記
+　　　　　　　　　患者名　　さいばんしょたろう裁判所太郎
+　　　　　　　　　生年月日　昭和○○年○○月○○日
+　　　　　　　　　住所　　　大阪市北区西天満２－１－１０
+※本記載例は，事故日からのカルテ等（レントゲン等画像データを除く）の書類のみを求める場合
+※「カルテなど一切」と記載された場合，病院から各種検査記録などは必要かとの問い合わせがあるので，記載例のように書いてください。
+※患者氏名は必ずふりがなをお願いします。
+
+（別紙）２
+　　　　　　　　　　　　　文　書　の　表　示
+　下記患者に関する診療に際して作成されたすべての診療科の
+①カルテ，看護記録，各種検査記録，その他一切の書類（ＣＤＲによる送付は可）
+②レントゲン，ＭＲＩ等の画像記録（ＣＤＲによる送付は可）
+期間は平成○○年○○月○○日（本件交通事故日）から現在までのもの
+　　　　　　　　　　　　　　　　記
+　　　　　　　　　患者名　　さいばんしょたろう裁判所太郎
+　　　　　　　　　生年月日　昭和○○年○○月○○日
+　　　　　　　　　住所　　　大阪市北区西天満２－１－１０
+※本記載例は，レントゲン等の画像をデータを含む一切の文書の送付を求めるケース
+※なお，病院からＣＤＲによる送付について，可否の問い合わせがあるので，ＣＤＲによる送付で良い場合には，必ず「（ＣＤＲによる送付は可）」と記載してください。
+※一般的には，ＣＤＲによる送付の場合の方が，デュープによる送付よりも費用は安いようです。
+※患者氏名は必ずふりがなをお願いします。
+
+（別紙）３
+　　　　　　　　　　　　　文　書　の　表　示
+　下記患者に関する診療に際して作成されたすべての診療科のカルテ，看護記録，各種検査記録，その他一切の書類（但し，レントゲン，ＭＲＩ等の画像記録は除く）。
+送付を求める期間
+本件交通事故は，平成○○年○○月○○日ですが，保管されているすべての記録（事故日以降のものだけではなく，事故日以前のものも含めすべての記録の送付を求めます。）
+　　　　　　　　　　　　　　　　記
+　　　　　　　　　患者名　　さいばんしょたろう裁判所太郎
+　　　　　　　　　生年月日　昭和○○年○○月○○日
+　　　　　　　　　住所　　　大阪市北区西天満２－１－１０
+本件訴訟において，既往症が問題となっているため上記事故日以降現在までのものに加えて，上記事故日以前の初診日以降すべての記録の送付を求めます。
+※本記載例は，事故日以前のカルテ等の送付も求める場合（レントゲンなどの画像資料の送付は求めない）で，事故日以前のものの送付を求める理由を簡潔に記載した例である。初診日が判明しているときは，その年月日を記載してください。
+※患者氏名は必ずふりがなをお願いします。
+
+（別紙）４
+　　　　　　　　　　　　　文　書　の　表　示
+　下記患者に関する診療に際して作成されたすべての診療科の
+①カルテ，看護記録，各種検査記録，その他一切の書類（ＣＤＲによる送付は可）
+②レントゲン，ＭＲＩ等の画像記録（ＣＤＲによる送付は可）
+送付を求める期間
+本件交通事故は，平成○○年○○月○○日ですが，保管されているすべての記録（事故日以降のものだけではなく，事故日以前のものも含めすべての記録の送付を求めます。）
+　　　　　　　　　　　　　　　　記
+　　　　　　　　　患者名　　さいばんしょたろう裁判所太郎
+　　　　　　　　　生年月日　昭和○○年○○月○○日
+　　　　　　　　　住所　　　大阪市北区西天満２－１－１０
+本件訴訟において，既往症が問題となっているため事故日以前の初診日からの記録を求めます。
+※本記載例は，事故日以前のカルテ等の書類に加え，レントゲンなどの画像資料の送付も求める場合。事故日以前のものの送付を求める理由を簡潔に記載した例である。初診日が判明しているときは，その年月日を記載してください。
+※患者氏名は必ずふりがなをお願いします。
+
+.■民暴事件事務局作業
+初期作業
+　事件名称の決定
+　担当者決定（団長、事務局、報告書、内容証明、議事録、窓口、資料等）
+　弁護団名簿作成，関係者名簿作成
+　委任状の受領（一般用、担保用）
+　代理人口座の開設，費用見積もり、請求、領収発行
+
+事情聴取
+　特定が必要な事項の確認、資料収集作業
+    所有者　戸籍謄本、住民票、資格証明、登記簿謄本、公課証明取得
+    占有者　ガス・水道・電気・電話・新聞・牛乳・その他
+
+関係機関連絡
+　警察、暴追セ
+
+申立作業
+　全体のコーディネート
+　内容証明起案
+　報告書作成
+　申立書起案
+　捺印あつめ
+　正本副本・疎明資料作成
+　原本の保管
+　提出資料の団員への配布
+
+面談
+　期日決定
+　執行官打ち合せ
+
+執行
+
+裁判
+
+終結処理
+　費用清算
+　終了報告
+
+
+.＝＝＝＝＝関連機関＝＝＝＝＝＝＝＝＝＝
+.法テラス
+相談実施日から１か月以内に援助申込書提出＋相談終了時の署名（相談料支払い要件）
+契約締結後３か月以内の着手報告
+法テラス大阪　０５０－３３８３－５４２７　９：００－１７：００
+法テラス堺　０５０－３３８３－５４３０
+ジュリ1312 p128 松本論文　裁判員・保釈　打合せ観点で
+３００万上限　６万（保釈保証料　２％）＋自己負担１０％　３０万
+５００万上限　１８％　支援協会　負担金　５０万
+
+.法務局
+.■供託
+オンライン申請方法あり
+供託通知書は直送
+払渡請求に通知書・正本添付不要
+払渡請求，法人は印鑑証明必要
+承諾書の印鑑証明書は３ヶ月以内
+
+..○供託書の記載方法
+供託書作成上の一般的注意事項
+一般的事項
+①供託者は，太枠で囲まれた部分だけを記載してくたさい。
+②供託書は，ノンカーボン紙となっていますので，ボールペン等で梅写してくたさい（鉛筆書きは許されません）
+③供託書に記載する文字は，丁寧にはっきりと書いてくたさい。また，該当番号をマルで囲む場合には，マルの位置がずれないように
+④金銭その他の物の数量，年月日等を記載するには，アラビア数字をいれなければなりません。
+⑤供託金額又は有価証券の枚数及び総額面の訂正はできません。上記以外について訂正する場合には，その文字を二線を引いて消し，その近接箇所に正しい文字を書き，その字数を欄外に「何字削除，何字加入」と記載して押印しなければなりません。削除又は加入する場合もこれに準じてくたさい。これらの場合には，訂正又は削除した文字は，なお読むことができるようにしておか該当欄に記載事項の全部を記載することができない場合には，備考欄に記載するか，供託書と同じ大きさの用紙を別に使用してこれに記載してくたさい。
+｝〕イ共言モ者ｏイ主日〒丘Ｅ名ヰ聞‘ｏ言己壷壷供託者ｏ佳所，氏名在記載し，押印（実印，認印ｏいずれでも構いません．〕します．供託者が会社等ｏ法入であるときは，そｏ法入ｏ主たる事務所（本店〕ｏ所在地，名称（商号〕及ひ代表者ｏ琶格，氏名在記載し，代表者が押印します．代表者ｏ佳所在記載する必要はあ町ません．
+■〕ヰ苗イ共言モ者ｏイ主日〒丘Ｅ名ヰ聞‘ｏ言己壷壷
+被供言モ者ｏ住所，氏名を記載するときは，住民票又は登記簿に記載されたとお］正確に記載してくたさい（そうしないと，供託が無効となることがあ町ます．〕．
+被供託者が会社等ｏ法入であるときは，そｏ法入ｏ主たる事務所（本店〕ｏ所在地及ひ名称（商号〕在記載します．代表者ｏ氏名等在記載する必要はあ町ません．
+
+..○供託手続に必要な書類には，どのようなものがありますか。
+供託に際して必要となる書面のうち，主なものは，次のとおりです。
+〔１〕誓格証明書
+　供託者が登記された法入であるときは，登記所ｏ作成した代表者ｏ琶格在証する書面（登記簿謄本，抄本又は記載事項証明書〕在供託ｏ際に提示する必要があ町ます．
+　供託者が登記されていない法入であるときは，関係官庁ｏ作成した代表者ｏ琶格在証する書面在添付する必要があ町ます．
+　供託者が法入でない社団又は財団でありて，代表者又は管理入ｏ定めｏあるもｏであるときは，当誠社団又は財団ｏ定款又は寄付行為及ひ代表者又は管理入ｏ琶格在証する書面在供託書に添付しなけれはな町まこれらｏ書面ｏうち，登記所そｏ他官公署ｏ作成に係るもｏについては，作成憧臼か月以内ｏもｏに限られます．
+（２）代理権眼証書
+　供託者が代理入によりて供託しようとする場合は，代理入ｏ権限在証する書面在提示する必要があ町ます．
+　委任状，供託者が未成年ｏ場合に親権者が供託する場合ｏ戸籍謄抄本，営業所に置いた支配入が供託する場合ｏ登記簿謄抄本又は登記事項証明書がこれに当た町ます．なお，これらｏ書面も，作成憧臼か月以内ｏもｏに限られます．
+㈲提示又は添付する書面ｏ省略
+①簡易確認手続
+　登記された法入にっいて代表者ｏ琶格在証する書面在提示する場合に，供託所と証明すへき登記所とが同一〇法務局若しくは地方法務局ｏ本局，支局及ひそれらｏ出ヨ長所であるとき（たたし，東京，大脹，名古屋ｏ各法務局ｏ本局在除く．〕は，供託在しようとする者が供託書ｏ冨１」本に所定事項在記載してから，これ在当誠登記所ｏ登記官ｏところに持参し，供託書冨１」本に記載された代表者ｏ琶格にっいて登記官ｏ確認済みｏ印在受けた上，これ在供託官ｏところに提出したときは，これ在もりて代表者ｏ琶格在証する書面ｏ提示に代えることができます．
+②添付書類ｏ省略
+　同一〇供託所に対して同時に数個ｏ供託在する場合において，（１川１〕ｏ添付書面で内容ｏ同一〇もｏがあるときは，一個ｏ供託書にユ通在添付して，他ｏ供託書へｏ添付在省略することができます．こｏ場合には，他ｏ供託書ｏ備考欄に援用する旨在記載し
+
+③添付書類ｏ原本還付
+　供託書に添付した書面にっいては，供託者は，供託ｏ際に，原本と相違ない旨在記載した当誠書面ｏ謄本在添付して，原本ｏ還付在請求することができます．用供言モ通知書ｏ添付弁済供託にありては，被供託者ｏ還付請求権在証明する手段として，供託通知書が童要な役割在果たすことにな町ます．民法４目Ｅ条ヨ項では，供託者は，遅滞なく，被供託者（情権者〕に供託ｏ通知在しなけれはならないもｏとしています．
+そして，供託通知在確実に行わせるため，供託者は，供託に際しては，供託ｏ種類に従りて，定められた書式ｏ供託通知書（供託所に備え付けられている用紙〕及ひ郵券在付した封筒在被供託者ｏ入数分提出しなけれはならないもｏとされています．
+
+
+.＝＝＝＝＝参考資料＝＝＝＝＝＝
+.■独自認定・専門弁護士
+なにかあったら自分のことを頼みたい信頼できる弁護士のリスト
+　井上洋子（３６５－７６２１    少年問題特別委員
+　小久保哲郎    サルでもわかる少年法改正問題
+　岩本朗    スーパー弁護士（オールラウンド
+　池田直樹（あすなろ）  スーパー弁護士（企業法務系、公害環境事件
+
+故人
+　寺島  医療過誤大阪ナンバーワン
+　山本  オールラウンダー
+
+
+.その他データ＝＝＝＝＝
+修習生バッジの由来　赤　検事　青　判事　白　弁護士
+    戦前の法服の刺繍の色からきている。弁護士が下というのも、そういうわけだからか？
+弁護士バッジの由来　　ひまわりとてんびん　当初はデザイン不評
+
+リソース
+大阪市立大学中小企業支援法律センター
+　第２ビル　梅田サテライト　事前予約　無料
+　木・金　午後２時から午後５時　６６０９－９５２１
+
+
+.経理処理
+大阪弁護士会の適格請求書発行事業者登録番号
+Ｔ７１２０００５００４１８４
+
+
+.参考文献＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+..一般
+　有斐閣 法律相談シリーズ
+　暮らしの法律と諸届事典　講談社
+　ジュリスト一〇九九号　判例批評
+　公益法人による政治献金と思想の自由　早稲田大学助教授西原博史
+
+..医療文献
+　内科全書　南山堂
+　臨床試験法提要　金原出版
+　医療過誤判例百選第二版
+
+..交通民事
+　自賠責保険のすべて（年度版）　大蔵省保険第二課監修　保険毎日新聞社
+　症状から見た後遺障害の等級・程度と損害賠償学の計算 若井俊克編著福祉行政研究会
+　鞭打ち症の査定読本－基礎知識とチェックポイント　保険毎日新聞社
+　実用 自動車事故工学－事故の解析と再現　江守一郎著　技術書院
+
+..民事訴訟
+　手続裁量論　加藤新太郎
+　対話形審理 人間の顔の見える民事裁判　井上・高橋・井上編　信山社
+　ジュリスト一一〇〇号
+　　研究会　新民事訴訟法をめぐって　第一回
+
+..倫理・業務
+　事例弁護倫理－弁護士倫理研修テキスト 日本弁護士連合会発行
+　法律事務の手引き 大阪弁護士協同組合
+　新法律事務職員ハンドブック　第二東京弁護士会編　ぎょうせい
+
+..民暴
+　新版　民事介入暴力 日本弁護士連合会編　社団法人商事法務研究会
+　不良債権回収と知能暴力犯罪　警察庁暴力団対策部長 林則清編著　東京法令出版
+
+..請負
+　請負契約に関する実務上の諸問題  後藤
+　欠陥住宅紛争の上手な対処法－紛争の本質からみた法的対応策（弁護士 澤田和也）
+
+..企業法務
+　営業譲渡・譲受ハンドブック　商事法務研究会編　五八〇〇円
+
+..著作権
+　著作権入門（第四版）　社団法人著作権情報センター
+
+..融資者責任
+  自由と正義　一九九六年一〇月号　融資者責任の新たな課題
+    融資金の使途先に関する融資者の責任（一橋大教授　松本恒雄）
+    説明義務違反による損害賠償に関する二、三の覚書（早大法専任講師　小粥太郎）
+    米国における担保及び融資の規制について（消費者相談員　楠本くに代）
+
+　判例時報一五七六号（判例評論四五三号）
+    貸手責任に関するわが国の総合判例研究（四）　貸手責任と金融倒産
+
+..土地紛争
+　ぎょうせい 土地区画整理六法
+　有斐閣 都市計画・区画整理・収用の法律相談第4版（園部逸夫編）
+　最新地方自治判例１００　自治関係判例検討会編　一六〇〇円
+
+..和議・特別清算
+　判例タイムズ８３０号
+
+..家事事件
+...親子鑑定
+  ジュリスト１０１０号、１０９９号
+    実親子関係とＤＮＡ鑑定・序説（明治大学教授 椿寿夫）
+    親子関係の存否を確定する訴訟における子の年齢
+    ドイツ・スイスの認知法と真実志向度（南山大学教授 松倉耕作）
+    フランス法におけるＤＮＡ鑑定と親子法（愛知学院大学教授 松川正毅）
+    イギリス法における実親子関係の確定とＤＮＡ鑑定（明治大学教授 新美育文）
+    アメリカ親子法における実親子関係とＤＮＡ鑑定（明治大学講師 矢野篤）
+    父子関係訴訟における立証問題と鑑定強制について（筑波大学教授 春日偉知郎）
+    家裁実務におけるＤＮＡ鑑定（東京家裁判事 梶村太市）
+    ＤＮＡを利用した親子鑑定（名古屋大学教授 勝又義直）
+　家事事件の調査方法についての研究 増補版　家庭裁判所調査官研修書編　法曹会
+
+...相続
+　財産相続の法律知識　自由国民社
+　新版 相続・贈与の実務　法務から税務対策まで　税理士松本繁雄著　経済法令研究会
+
+..刑事
+　季刊刑事弁護８号　特集：情状弁護を問う
+    弁護人から見た情状弁護　格闘から生まれる情状弁護　奈良弁護士 高野嘉雄
+    裁判官から見た情状弁護　情状弁護のあり方について　神戸地裁判事 安原浩
+    捜査と情状弁護　活動の基本は接見である　大阪弁護士 上野勝
+    実刑事案と情状弁護　実刑と猶予のはざまで　福岡弁護士 川副正敏
+    情状弁護と立証方法　実刑と猶予と本人の更生　東弁弁護士 小森栄
+
+
+.　保証金の内部負担に関する合意書
+藤原猛爾（以下「甲」という）と山之内桂（以下「乙」という）とは，事務所賃貸借に関して次の通り合意する。
+１　甲と乙は，甲が，本日現在事務所賃貸借に係る保証金として，株式会社神谷に対して，金５００万円を預託していることを確認する。
+２　乙は，毎年１２月３１日限り，事務所経費として負担している年額３００万円（計算期間１月１日から１２月３１日まで）のうち，当該年末における支出後残高に相当する部分を，金５００万円に満つるまで，前項の預託金に対する乙の負担部分として，甲に交付する。
+３　事務所賃貸借契約を解約する場合又は名義を甲から乙または第三者へ変更する場合には，甲は，当該解約又は変更時点における乙からの預り金に相当する部分を乙に返還する。
+４　その他本条項に定めのない事項については，都度協議して定める。
+　本合意の成立を証するため，本書２通を作成し，甲乙各１通ずつ保有する。
+平成　　年　　月　日
+　甲
+　乙
+
+.本人特定事項確認
+６月３０日期限で前年度報告
+本人特定事項の確認　官公署、外国裁判所委託業務に限り有効５年　それ以外は依頼目的で場合分け
+２００万円以上の資産を預かる
+取引等
+　不動産売買
+　企業関連支出
+　団体の代表等選任
+　信託契約
+　犯罪収益
+　異常取引
+　例外　供託、判決、被害賠償、費用、後見、遺言執行
+
+　なりすまし
+　虚偽申告
+　外国ＰＥＰｓ
+　制裁対象国
+
+法人依頼
+法定代理人
+
+通常：写真付き身分証明書照合
+厳格：印鑑登録証明
+
+
+.■業務経験一覧ケースブック作成プロジェクト
+債権＞
+　売掛金　判決　多数
+　貸金　判決　多数
+　求償金　判決　１
+　賃金　判決　１
+　派遣料　判決　２
+　預金払戻　和解　１
+　株主権確認　判決　１
+　預託金　和解１　判決　２
+　特許料　１
+　証拠保全　１
+
+損害賠償＞
+　交通事故　紛争処理センター　２
+　傷害事件　和解１　判決１
+　医療過誤　和解２　交渉１
+　商法２６６の３　１
+　競業禁止違反　２
+　詐欺　１
+　日照・眺望　２
+　補償金　１
+
+不動産＞
+　賃料請求　和解　２　判決　１
+　駐車場明渡　判決１
+　建物明渡　和解　２　判決　２
+　土地明渡　判決　１
+　共有物分割　判決　１
+　借地権譲渡許可　和解
+　賃料増額請求　調停・判決　１
+　賃料減額請求　調停・判決　２
+
+家事＞
+　遺産分割　交渉　２　和解　１　調停　２　審判　２
+　養育費請求　和解　１
+　相続財産管理人選任申立　２
+　相続財産管理　３
+　遺言検認　２
+
+破産＞
+　債務整理　多数
+　申立（同時廃止）　多数
+　申立（管財）　２
+　管財人（法人）　２
+
+契約書＞
+　共同事業　２
+　賃貸借・売買　多数
+　墓地使用
+
+執行保全＞
+　不動産仮差押　２
+　処分禁止仮処分　１
+　競業禁止仮処分　１
+　強制競売　２
+　不動産競売　３
+　動産差押　２
+　債権差押　多数
+
+刑事＞
+　入管法違反　１
+　変造有価証券行使（中国人）　１
+　窃盗　２
+　覚せい剤　１
+　脅迫・暴行　２
+　大麻取締法　１
+　詐欺告訴　２
+　業務上横領告訴　１
+　傷害（少年）　１
+　恐喝未遂　１
+　強制わいせつ　１
+
+労働＞
+　解雇（使用者側）　交渉　２
+　地位保全仮処分（使用者側）　１
+
+委員会・その他団体＞
+　民事介入暴力非弁護士活動対策委員会
+　消費者委員会
+　公害環境委員会
+　犯罪被疑者支援
+
+
+★情報インデックス--------------------
+〒五四一ー〇〇五五
+    大阪市中央区船場中央二丁目三番六ー二〇九
+                船場センタービル六号館二階
+            河内法律事務所（送達場所）
+            ＴＥＬ （〇六）二四四ー六七四五
+            ＦＡＸ （〇六）二四四ー六七四八
+新事務所
+〒五三〇ー〇〇四七
+大阪市北区西天満二丁目六番八号堂ビル
+文殊総合法律事務所（送達場所）
+ＴＥＬ（０６）４７０９－４３７１
+ＦＡＸ（０６）４７０９－４３７０
+
+＜相談＞
+1998/7/30 9:26 電話 三重リース徳田
+Ｑ：連帯保証債務は遺族に承継されるか
+Ａ：債務者の地位が承継されます。遺族は、相続開始前後を問わず、すべての債務を保証します。但し共同相続の場合は法定相続分により分割されてしまいます。
+  しかし、継続的債務の連帯保証と身元保証の場合は、主債務内容が不確定であることから、保証人の地位の安定をはかるため、相続性がないというのが判例・通説です。その場合でも、相続開始前にすでに発生している具体的な債務については、保証債務を負担します。
+
+1998/8/27 17:44 電話 ＳＳ小杉（tel ０３－３３４７－１９１０）
+Ｑ：預り金の清算不能の場合の請求について
+  営業所運営費として、１０万円預かる。期末時又は退職時に清算することを確約する。清算不能の場合は、給与より天引きされても異議申立しない。
+  勝手に退職されて、清算しないままに給料全額を支払った。どうやって、預り金を回収するか。
+Ａ：法律問題
+まず、本預り証の解釈としては、１０万円の消費寄託契約と解される（民６６６）。営業費用が会社負担であれば、受託者側では立替金処理になる。従って、預り証の清算条項の解釈としては、右立替金と寄託金との相殺を合意したものと見るのが論理的と思われる。→ 後の検討で単純な消費寄託でないことが分かる。
+  本件では、寄託金返還期限が定められているので、その期限がくれば、原則として寄託金全額の返還を請求できる。だが、前記清算条項があるので、立替金及び寄託金を相殺処理した上でなければ、差額につき相互に支払を請求できないと考えるのが固い考え方であろう（もっとも、返還期限が７月３１日なのか、期末時なのか退職時なのかがはっきりしないという点、１０万円以上の営業経費を使ったときにスタッフサービス側に追加支払義務が生じるのか否かが書面上不明な点、どの範囲の営業経費までが含まれるのか不明である点、なども問題となる）。
+  問題は、相手から立替金の請求が具体的になされない場合であるが、その場合は相殺すべき債務なしと考えて、全額の返還を求めるというのも合理的な考え方の一つであろうと思われる。
+
+処理方針の問題
+  内容証明が効かなければ、小額なので支払督促をかける。管轄は被告居住地が原則。合意があれば、ほかのところでも可能だが、それ以外の管轄の特例はないので、本件では難しいと思われる。
+  相手は当然に立替金との相殺を主張するであろうから、結局は異議が出て訴訟ということになるだろうが、そうすると、費用対効果の関係で法的手段での回収は難しいのではないか。
+
+結論
+  よって、当面は全額返還の請求をしつこく進めるのがよいと思われる。
+
+
+1998/9/2 13:42  電話 梶原産業
+Ｑ：更正会社との保全決定後の取引について
+Ａ：
+更正会社は保全決定が消えるまで営業活動を行えない。できるのは、保全・更正業務に必要な取引だけであるから、その点を確認すること。
+
+1998/9/10 14:22  電話 ＳＳ山下
+Ｑ：３０日の解約期間による解約は有効か
+Ａ：
+基本＞
+第27条（解約による建物賃貸借の終了）
+建物の賃貸人が賃貸借の解約の申入れをした場合においては、建物の賃貸借は、解約の申入れの日から六月を経過することによって終了する。
+2 前条第二項及び第三項の規定は、建物の賃貸借が解約の申入れによって終了した場合に準用する。
+→これが借家契約解約の場合の最低条件
+
+第29条（建物賃貸借の期間）
+期間を一年未満とする建物の賃貸借は、期間の定めがない建物の賃貸借とみなす。
+→これにより1年未満の期間を定めても、6ヶ月の解約期間が必要になることになる。
+
+第30条（強行規定）
+この節の規定に反する特約で建物の賃借人に不利なものは、無効とする。
+→この規定により、27条1項より短い解約期間を定めても無効になる
+  結局、原則的には30日の解約期間は無効となる。
+
+
+30条の例外となる場合＞
+第38条（賃貸人の不在期間の建物賃貸借）
+  転勤、療養、親族の介護その他のやむを得ない事情により、建物を一定の期間自己の生活の本拠として使用することが困難であり、かつ、その期間の経過後はその本拠として使用することとなることが明らかな場合において、建物の賃貸借をするときは、その一定の期間を確定して建物の賃貸借の期間とする場合に限り、第三十条の規定にかかわらず、契約の更新がないこととする旨を定めることができる。この場合には、第二十九条の規定を適用しない。
+2 前項の特約は、同項のやむを得ない事情を記載した書面によってしなければならない。
+→これは更新しないことを定めうるというだけの規定であり、しかも、
+確定期間を定め、やむを得ない事情を記載した書面で特約をする必要がある。1年未満の期間を定めることが可能。
+
+第40条（一時使用目的の建物の賃貸借）
+  この章の規定は、一時使用のために建物の賃貸借をしたことが明らかな場合には、適用しない。
+→これは目的自体が一時の使用でなければならない
+賃料が相場より低い
+賃料の改定が予定されていない
+契約期間が短く定められている
+賃借人がその物件に長居する必然性がない
+  などの事情があれば、一時使用になりうるだろうが、実際の認定は裁判になってみないとわからないというところがある。
+
+  以上のことから、安全策としては半年おくのが妥当ではあるが、契約が一時使用に準拠したものなら、多少の無理も通せる可能性はあるかも。
+
+  以上回答です。
+  不明な点ございましたら、メールでご指摘ください。
+
+
+1998/9/16 12:39  電話 神保事務所
+Ｑ：不動産の差押費用、仮差押費用
+Ａ：
+差押
+  手数料３００円（執行証書は１７００円）
+  郵便切手 １６０００円
+  予納金 ７０万円
+
+仮差押
+  郵便切手１０５０円（審尋が入ると４０００円）
+  登録免許税    請求債権額（１０００４／１０００）
+  保証金約２５％
+
+
+1998/9/18 13:24 電話 神保事務所
+Ｑ：離婚前に財産分与がありうるか
+Ａ：
+離婚前に財産分与することは差し支えない
+配偶者贈与と財産分与のいずれかを選択できる
+  参考文献：民商法と税務判断、法律家のための税法
+
+税務計算については、
+
+
+1998/9/29 21:54 電話 テクノ福田
+Ｑ：寮を取引先が提供する。その寮費の支払いにつき、社員の給与から天引きして、しかも請負代金から寮費分を差し引く方法が取れるかどうか。
+Ａ：テクノが取引先から寮を借りて、これを社員に転貸する方法によるべきである。労基法上の問題を回避し、法律関係の明確化を図るため。
+
+  まず、当初の案では、社員に寮費の支払い義務が発生しますが、請負代金債権はテクノが持っているので、相殺に適する債権ではありません。従って、請負代金と寮費の相殺は、そのままでは法的に考えられません。
+  仮に、当初案のまま、類似の取引を実現しようとすると、次の問題が生じます。
+  労働者がテクノに対して寮費の支払委託をし、テクノが右委託に基づいて寮費を支払う（このとき請負代金と清算処理）。テクノは労働者との委託契約に基づき労働者に対する費用償還請求権を持つ。ところがここで、給与からの控除という方法で労働者から右寮費相当分を回収しようとすると、労基法の直接払いの原則に反するおそれがあります。すなわち、本来は労働者に全部の賃金を払って、そこから労働者自身が寮費を払うべきところを、テクノが労働者の債権者にそれを先払いしている形になるためです。従って、これを避けるためには、寮の借主をテクノ自身にするほかないと思われます。
+  また、当初案には、請負要件の問題として、相手先の寮管理とテクノの労務管理が重複するおそれがあり、労務管理の独立性が外形的に維持できなくなるという懸念もあります。
+  従って、頭書回答のとおりの処理が適切と考えます。
+
+
+1998/10/14 23:28 ＦＡＸ テクノ契約書修正
+  第四条
+３  甲は、本契約の履行に関して注文・要請等を行うときは、統括責任者に対して行い、従業員に対して直接これを行ってはならない。
+４  乙は、本契約の履行に関し、甲の指示を遵守しなければならない。
+
+（修正案）
+  第五条
+乙は請負業務の履行に関して知り得た、甲に関する一切の知識、情報等を第三者に漏らしてはならない。また、従業員に付いてもこれを遵守させなければならない。
+この位置に賠償規定を入れるのは望ましくなく、他の規定によって十分カバーされていることを説明すべき。
+
+  第14条
+・・・（削除）
+やむを得ない事情としては、自然的・社会的・経済的な多様なアクシデントが考えられるので、明確化は難しい。
+期間内解除により発生する損害を賠償させうる規定は、このほかにはないが、諸刃の刃になる恐れがあり、削除するのが望ましい。
+
+
+1998/10/14 23:28 ＦＡＸ テクノ福田
+Ｑ：預かり証のチェック
+  ２ヶ月間の営業経費として預ける。営業経費としての範囲では自由に使える。使った分は領収証等により営業経費として認めたものについては、返却不要。使わなかった分はいったん会社に返却する。返却すべき金を返さない場合、どのような請求ができるか。また、給与からの控除が可能か。
+Ａ：
+１  勤務というのは、雇用関係が発生していることが条件かどうか
+２  単純な消費寄託ではない。預かりというより、むしろ金額範囲制限つき営業経費使用権原の付与（委任）ないし、労働契約上の経費取扱準則（無名契約）と解すべき。その意味ではタイトルが不適切ではないか。
+３  「金額を・・・預かる。」というのは、そのとき現金を渡すのかそれとも、預金通帳などにしてあるのか不明。本来、本社経理部がすべき小口経費の管理事務を営業所長に任せる内容か。
+４  預かり期限と清算期限との関係が不明瞭。1月31日を過ぎたら返却しなければならないのか。
+５  実態をからすれば、問い合わせの件の場合の返還請求の法律構成としては、預けたものを返せという契約法上の債務不履行の問題もさることながら、会社が管理を委ねた資金を横領されたことによる損害を賠償させるという不法行為的意味合いが強くなるのではないか。
+６  上記を踏まえて、未返却資金を給与から控除することについて考えると、まず、清算事務を履行しない場合は全額を控除するとの事前協定は、賠償予定の禁止に反する可能性がある（労基法16条）。また、未清算分を減給で対処するには、労基法91条の制限がある（一回の制裁事由につき平均賃金の一日分の半額まで、かつ月給総額の１０分の１まで）。
+  そこで、毎日清算事務履行の業務命令を出し、それへの違反につき制裁事由一回とカウントして、毎月給の１０分の１ずつをカットしていく方法によれば、適法に回収できるのではないか。
+  退職後については、留保中の賃金を現金支給にして、事実上支給時に清算する方法。取りにこないときは１年で時効消滅する。
+
+
+1998/11/4 10:53 電話 ＳＳ藤波
+Ｑ：派遣予定先（岡山）でのトラブル
+  競合他社との競争に勝って、受注をした。その際、派遣先業務に支障がないように万全の派遣態勢を取ることを約束した（これが勝因の一つ）。
+  ところが、派遣当日（11月3日）になって、派遣労働者を用意できず、現在はやむなく内勤スタッフが出張して対応している。クレーム処理の過程で2週間の無料派遣をするとの話をしたことはあるが、できればもっと早く縁を切りたい。どうすればよいか。
+Ａ：無償サービス３０万円が契約締結上の賠償債務として相当かどうかという問題。トラブルを避けるためには、当初の口約束を違えるのは問題があるのではないか。交渉で1週間程度に短縮させることは可能だが、現実的には2週間は覚悟せざるを得ないか。
+
+
+1998/11/6 13:39 電話 ＭＦ大西
+Ｑ：特別清算の場合に協定成立後、保証人へ保証債務の履行を求めていくにあたって、協定で削除された債権部分はどうなるのか。
+Ａ：協定ならば破産法の準用により、保証人へ係っていくことができる。ただし、個別の和解で免除した部分については、付従性の原則により、請求できなくなるので注意する。
+
+
+1998/11/12 14:16 来訪 ＳＳ小杉
+Ｑ：法人に対する判決をとったが、同じ場所に別法人があり、送達を拒まれている。どのような対処をすべきか。
+Ａ：動産執行のときに概括的に押さえてしまう方法（看板が出ているなど、外部的な徴憑がないと難しい)
+法人格否認により右別法人を被告とする方法
+取締役に対する責任（商法・民法）
+  商法上の責任を有する取締役に荷担した者の民事責任について（共同不法行為？）
+
+
+1998/11/28 12:33 電話 藤枝
+Ｑ：会社の債務の保証人になるものを社員の中から代表で一名選んで、連帯保証契約をする場合の留意点
+Ａ：保証人が弁済したときに、他の社員にも分担金を請求できるような権利を確保しておくこと。具体的には公正証書の作成がベストである。
+なお、その内容については、下記のとおり。
+  （研究中）
+
+
+.民事
+..債権
+...芦田 売買契約書 1998.10.13-1998.10.19
+売買
+
+...佐々 駐車場契約書 1998.9.28
+賃貸
+
+...ＳＳ 業務委託契約書 1998.9.2
+準委任
+
+..訴訟
+...平出  駐車場解除 1998.7.2-9.16
+第一回弁論後に取り下げ。訴外和解の成立
+
+..債務
+...シンコー自己破産 1998.5.6-1998.10.7
+相談から２日で個人・法人の両申立を奈良地裁。２１日目、宣告前の審尋を経て、２２日目で宣告となる。
+給与の立替払い手続をとる。新知識：労働福祉事業団
+
+
+..執行
+...吉川 供託金問題 1998.9.8-10.1
+相談翌日に調査。１３日目に受任手続、10.1に全完了。
+新知識：判決確定前に仮処分の供託金取戻から満足を得る方法
+  ・供託原因消滅証明書、送達証明
+  ・担保取消同意、決定
+
+.刑事
+..刑事扶助
+...杜 変造有価証券行使 1998.9.23-10.29
+当番で石鹸、中国語の通訳人を帯同　計７回の接見
+不起訴処分で入管引継ぎ　新知識：出入国管理局
+
+.民暴委員会
+..非弁事件調査
+...小霜  1998.9.28-1998.11.9
+廣田研造弁護士
+調査会議での検討のうえ、審問を実施。報告書を提出する。
+
+
+.アテラ
+0120-268-054
+HOME  審査申込みフォーム
+審査申込回数※  初回    2回目以降
+所属事務所（任意項目）
+弁護士名※
+電話番号（任意項目）
+メールアドレス※
+案件類型※  労働問題　交通事故　離婚・男女問題　遺産相続　不動産・建築　医療過誤　詐欺・消費者被害　インターネット問題　企業間紛争　知的財産権　債権回収　賃金
+刑事事件　養育費請求　税務訴訟　その他
+相談者様/依頼者様の氏名・名称（任意項目）
+電話番号（相談者様）（任意項目）
+アドレス（相談者様）（任意項目）
+LINE ID（相談者様）（任意項目）
+お電話が繋がりやすい時間帯（任意項目）
+　現時点で当社から相談者様/依頼者様に連絡を取らないほうが良い場合はその旨ご記載ください。
+
+事件処理方針（複数選択可）（任意項目）　示談交渉　調停　審判　訴訟　未定　その他　請求の種類　※
+※記入例：「残業代請求」「賃金返還請求」「傷害事件に関する治療費・慰謝料等の請求」
+予定請求金額※  万円
+請求の内訳（任意項目）
+　として　万円
+項目を追加※記入例：「未払いの時間外手当として300万」
+弁護士報酬（初期費用など）※
+（①は必須）
+①着手金（タイムチャージの場合は、お見積り額）※　金額：　万円（税込）
+用途：　交渉　訴訟　その他手続　の費用　※用途は複数選択可
+②実費（預り金）　万円（税込）
+③日当、交通費　金額：　万円（税込）
+用途：　日当　交通費　その他手続　※用途は複数選択可
+④上記①が示談交渉・調停分のみの場合、訴訟の際に追加で必要となる費用
+追加着手金等：　万円（税込）
+追加実費：　万円（税込）
+追加日当・交通費：　万円（税込）
+弁護士報酬（報奨金）※
+（いずれか一つは必須）①固定額　万円（税込）
+②獲得した経済的利益・回収した金額　％（税込）
+③その他
+
+提供希望額（任意項目）
+弁護士費用の提供希望額　万円（税込）
+上記弁護士報酬（初期費用）全額
+クイックマネーサポートの利用希望（個人のみ）
+あり    なし    不明
+
+ご相談・ご依頼状況（任意項目）
+電話相談のみ
+面談済み
+委任契約済み
+その他
+相手方情報（任意項目）
+例（名前、職業、社名、所在地、勤務先、収入、所有不動産等）
+事案の概要（任意項目）
+当社との情報共有等に関する基本合意書の有無（任意項目）  締結した    締結してない    わからない
+当社営業担当からのサービス説明の有無（任意項目）    電話で受けた    面談で受けた    セミナーで受けた    資料送付のみ    受けていない    わからない
+ご質問・ご要望（任意項目）  申込内容を確認する
+
+ATE株式会社
+電話番号(代表番号)  03-6661-6550
+お客様窓口  0120-268-054
+登録番号：東京都知事(1)31785
+加盟先指定信用情報機関
+㈱日本信用情報機構 (JICC) https://www.jicc.co.jp/
+
+
+.権利保護保険
+事業版トラブル
+　契約関係
+　顧客対応
+　賃貸
+　交通事故
+　金銭貸借
+　労働
+
+個人版トラブル
+　遺言相続
+　離婚
+　労働
+　損害賠償
+　交通事故
+　賃貸
+
+みかた
+　第一回保険料支払い日月の翌月１日からの発生原因ある事件が対象（契約日ではない　原因発生が起点
+　待機期間３カ月（例外　個人の人身・物損事故　　なお、事業版では自動車事故は対象外
+　特定原因不担保１年（個人：離婚、相続、親族、金銭・証券リスク　　事業：労働、責任開始日前の締結契約
+　同居の親族は適用外
+　故意・重過失免責あり
+　事前承認制
+
+.OLD
+（前事務所）
+〒５３０－００４７  大阪市北区西天満４丁目１０番１９号　神谷ビル５階
+ 4-10-19, Nishitenma Kamitani Bld.5F
+
+（旧事務所）
+〒５３０－００４７　大阪市北区西天満２－６－８　堂ビル６階　６１１号室　文殊総合法律事務所
+　TEL　０６－４７０９－４３７１　FAX　０６－４７０８－４３７０
+
+.Lawyer Katsura Yamanouchi BCP manual===================
+
+総務省  xnyykmy5
+
+residential address>
+　大阪市北区西天満４－５－５－３０９
+
+Official name in English>
+Umeshin-Higashi Law Office
+Marquis Umeda #309, 4-5-5, Nishitenma,
+ Kita-ku, Osaka-city, 530-0047,  JAPAN
+ tel +81-6-6360-6562  fax +81-6-6360-6562
+
+Attorney at law, Litigaor
+ Lawyer Yamanouchi Katsura(Osaka bar association member, Nichibenren registration number 26282)
+
+Post card for excel format>
+弁護士　山之内　桂          ５３０－００４７    大阪市北区西天満４丁目５番５号　マーキス梅田３０９号　梅新東法律事務所
+
+for direct label>
+〒５３０－００４７
+大阪市北区西天満４丁目５番５号
+マーキス梅田３０９号室　梅新東法律事務所
+　弁護士　山之内　桂
+
+e-mail>
+@uhl.jp
+info
+katsura
+technical-noah-lc
+
+@uhllf.onmicrosoft.com
+katsura
+katsura-a
+
+@nifty.com
+yamanouchi-katsura
+
+@gmail.com
+gmaj2zzr
+
+@yahoo.co.jp
+gmaj2zzr
+
+@hotmail.com
+maje2zzr
+
+@docomo.ne.jp
+yamanouchi-katsura
+
+
+LINE公式
+<a href="https://lin.ee/rKoseaD"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
+
+独自ｓｓｌ　２０２５／９まで（共用サーバー同じ）
+https://ai.uhl.jp/wp-login.php  kyama   ev3hyM!EMeEJyKJ
+
+UCS　gmaj2zzr  N3wzTBmB6UZhZvf
+
+OANDA　DunVJYYn-4Ywi3j
+
+ｋａｎｄｅｎ　１０－１２－５５６４－５１０３０９　梅新東法律事務所
+.Emergency stopping and closure protocols
+shell X:\law\弁護\業務\管理\ＯＡ\BCPlist.xlsx
+
+Contact parties (families, lawyers, companies, clients, opponents, servers, social network services...
+Check current contructs
+　Office （rent, lease, communication, books, askul
+　Personal（amazon and others
+Assets, rights, and debt
+　assets （bank accounts, bankruptcy, properties, insurances
+　list of debt
+Ending
+　funeral meeting
+
+
+.EOF
+増額請求
+受領拒否
+供託
+更新拒絶＞法定更新
+　正当事由・・・信頼関係破壊程度
+　定期契約への変更
+　解除明け渡し請求
+減額調停
+訴訟
+　反対要素（物件不具合
+
+
+〒５３４－８５８５
+大阪市都島区友渕町１－２－５
+
+
+.ＯＬＤ
+手形
+　異議申立提供金に絡む問題は慎重に
+　手形目録と訴状の不一致に注意
+　手形裏書人に対する請求のチェック（文書送付嘱託
+　振出日白地の小切手訴訟
+
+
+
